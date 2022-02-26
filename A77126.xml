@@ -1,0 +1,1290 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A general idea of the Epitomy of the works of Robert Boyle, Esq. to which are added general heads for the natural history of a country / by R. Boulton ...</title>
+            <author>Boulton, Richard, b. 1676 or 7.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 151 KB of XML-encoded text transcribed from 64 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77126</idno>
+            <idno type="STC">Wing B3830A</idno>
+            <idno type="STC">ESTC R36502</idno>
+            <idno type="EEBO-CITATION">15713677</idno>
+            <idno type="OCLC">ocm 15713677</idno>
+            <idno type="VID">153430</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77126)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153430)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1179:3b or 2364:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A general idea of the Epitomy of the works of Robert Boyle, Esq. to which are added general heads for the natural history of a country / by R. Boulton ...</title>
+                  <author>Boulton, Richard, b. 1676 or 7.</author>
+               </titleStmt>
+               <extent>[4], 122 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Numerous errors in paging.</note>
+                  <note>Reproduction of originals in the Cambridge University Library and the Bodleian Library.</note>
+                  <note>Item at 1179 is bound with: The works of the Honourable Robert Boyle, Esq., epitomiz'd. Vol. IV / by R. Boulton. London : Printed and are to be sold by Thomas Bennet ... and John Wyat ..., 1700.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Boulton, Richard, b. 1676 or 7. --  Works of the Honourable Robert Boyle, Esq., epitomiz'd --  Abstracts.</term>
+               <term>Boyle, Robert, 1627-1691.</term>
+               <term>Natural history --  Pre-Linnean works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153430:1"/>
+            <p>A General Idea OF THE EPITOMY OF THE WORKS OF <hi>Robert Boyle,</hi> Eſq; To which are Added General HEADS FOR THE Natural HISTORY OF A COUNTRY.</p>
+            <p>By <hi>R. BO<g ref="char:V">Ʋ</g>LTON,</hi> Of <hi>Brazen-Noſe</hi> College <hi>Oxon.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed in the Year, 1700.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:153430:2"/>
+            <pb facs="tcp:153430:2"/>
+            <head>THE PREFACE.</head>
+            <p>HAving already Epitomized the Honu<g ref="char:EOLhyphen"/>rable Author's Works, I thought it might not be amiſs to give the Reader a ſhort View of what hath been taught in the foregoing <hi>Epitomy;</hi> for tho' I queſtion not but that moſt Readers are ſufficiently able to remember what is contained in thoſe Vo<g ref="char:EOLhyphen"/>lumes, yet it may be of uſe to ſome to recol<g ref="char:EOLhyphen"/>lect their Memories, by putting them in mind of the moſt General Doctrines contained therein: I ſay, the moſt General, becauſe in this ſhort Abſtract the Reader muſt not expect that I ſhould comprize the Contents of the whole Epitomy, ſince the greateſt part of that conſiſts of Experiments laid down as Proofs of what the Author hath, upon par<g ref="char:EOLhyphen"/>ticular Occaſions, aſſerted; which Experi<g ref="char:EOLhyphen"/>ments could not be decyphered in much fewer Words than I have made uſe of: All there<g ref="char:EOLhyphen"/>fore that I now pretend to, is, to ſhew what is generally taught in thoſe Papers, without laying down any Proofs at all, and without
+<pb facs="tcp:153430:3"/>making uſe of more Words than are ſufficient to expreſs his General Aſſertions. So that if the Reader queſtions the Truth of any thing contained in theſe Sheets, he is deſired to turn to the <hi>Epitomy,</hi> where he will find the ſame things laid down more largely, and abundantly proved by Particular Experi<g ref="char:EOLhyphen"/>ments.</p>
+            <p>Note, <hi>That every Chapter contains a Book of the</hi> Epitomy, <hi>and every Se<g ref="char:EOLhyphen"/>ction the Contents of a diſtinct Chapter.</hi>
+            </p>
+            <p>As for the <hi>General Heads</hi> laid down for the Promoting of the <hi>Natural Hiſtory of a Country,</hi> the Reaſon why I have annex'd them to this <hi>General Idea,</hi> is, That they might be bound up alone without the <hi>Epito<g ref="char:EOLhyphen"/>my,</hi> for the ſake of thoſe who go beyond Seas, and deſire only to carry along with thoſe Di<g ref="char:EOLhyphen"/>rections General Notions of Mr. <hi>Boyle</hi>'s Philoſophy: Which if it may be of uſe to ſuch, it will anſwer the Deſign of the Reader's</p>
+            <closer>
+               <signed>Humble Servant, <hi>R. BO<g ref="char:V">Ʋ</g>LTON.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:153430:3"/>
+            <head>A General Idea OF THE WORKS Of the Honourable <hi>ROBERT BOYLE,</hi> Eſq; EPITOMIZ'D.</head>
+            <div n="1" type="chapter">
+               <head>CHAP. I.</head>
+               <div n="1" type="section">
+                  <head>SECT. I.</head>
+                  <p>HAVING already ſo far Epitomized the Honourable Author's Works, that the Reader might have an en<g ref="char:EOLhyphen"/>tire View of what that Learned Promoter of Uſeful Knowledge had writ, with<g ref="char:EOLhyphen"/>out being at the Pains and Trouble to read over ſo many diſtinct Tracts, and thoſe leſs uſeful Digreſſions and Prolixities which moſt People complain rendered that Author's Works too tedious; I ſhall now, for Reaſons already of<g ref="char:EOLhyphen"/>fered
+<pb n="2" facs="tcp:153430:4"/>in my <hi>Preface,</hi> proceed to give a <hi>General Idea</hi> of that <hi>Epitomy.</hi>
+                  </p>
+                  <p>And firſt he teaches, That the Matter of all Natural Bodies is the ſame, <hi>viz.</hi> A diviſible, impenetrable, and extended Subſtance.</p>
+                  <p>And ſince, were all the Parts of Matter per<g ref="char:EOLhyphen"/>petually at reſt, there could be no Change in Matter, in order to form a Variety of Natu<g ref="char:EOLhyphen"/>ral Bodies, it was requiſite there ſhould be a variouſly determined Motion in all the Parts of it, or at leaſt ſome of them; and Matter being naturally divided into Parts by Motion, the Parts divided muſt have a peculiar Size and Shape, and either Reſt or Motion; ſo that Mat<g ref="char:EOLhyphen"/>ter hath theſe Three, Primary Affections, <hi>Mag<g ref="char:EOLhyphen"/>nitude, Shape,</hi> and either <hi>Reſt</hi> or <hi>Motion.</hi> And</p>
+                  <p>Theſe Primary Affections of Matter being allowed, it will follow, that there muſt be a certain Poſition or Situation of the Parts of Bo<g ref="char:EOLhyphen"/>dies ſo divided; and the Diſpoſition and Con<g ref="char:EOLhyphen"/>trivance of the Parts of the Whole may rea<g ref="char:EOLhyphen"/>ſonably be called their Texture or Modifica<g ref="char:EOLhyphen"/>tion; and conſequently as that Texture or Mo<g ref="char:EOLhyphen"/>dification is different, the Qualities of that Bo<g ref="char:EOLhyphen"/>dy will vary; for as the Diſpoſition of the Parts of a Body are peculiarly adapted to cauſe ſuch or ſuch Effects, its Power to cauſe them gives us Reaſon to ſay it is endowed with ſuch Qualities, in reference to the Bodies acted on.</p>
+                  <p>And as for the Forms of Bodies, ſo much diſputed by Philoſophers, we may eaſily ſup<g ref="char:EOLhyphen"/>poſe them to be owing to an Aſſociation of Ac<g ref="char:EOLhyphen"/>cidents requiſite to compoſe a Body of this or
+<pb n="3" facs="tcp:153430:4"/>that kind, the Texture of which, united, may reaſonably be call'd their <hi>Form;</hi> and that a Convention of Accidents is capable of per<g ref="char:EOLhyphen"/>forming what we uſually aſcribe to a <hi>Form,</hi> is evident, ſince they are ſufficient to diſcriminate it from all other Species of Bodies.</p>
+                  <p>Nor will it be difficult to explain Genera<g ref="char:EOLhyphen"/>tion, Alteration, and Corruption by the afore<g ref="char:EOLhyphen"/>mentioned Doctrine; for when there is ſuch a Concurrence of Accidents as are requiſite to conſtitute any Species, a new Species is ſaid to be genreated, pre-exiſtent Matter acquiring a new kind of Exiſtence or Modification; and when that Eſſential Modification is diſſolved, the Body is ſaid to be corrupted: And as for Putrefaction, it ſeems to be but a ſlower kind of Corruption, where the eſſential Qualities of a Body are only more ſlowly altered, but not deſtroyed.</p>
+               </div>
+               <div n="2" type="section">
+                  <head>SECT. II.</head>
+                  <p>Theſe things premiſed in General, concern<g ref="char:EOLhyphen"/>ing the Origin of all mixed Bodies, it may be ſeaſonable to note farther, in Reference to Par<g ref="char:EOLhyphen"/>ticular Qualities, That in Compound Bodies they are very much different from thoſe be<g ref="char:EOLhyphen"/>longing to the ſeperate Ingredients; ſo that Qualities may reſult from Mixtures as well as from an Alteration of the Texture, and Mo<g ref="char:EOLhyphen"/>tion of the Parts of the Ingredients.</p>
+                  <p>But we are not always to conſider the Ef<g ref="char:EOLhyphen"/>fects of mixed Bodies as the bare Reſult of the Parts of Matter of ſuch a determinate Texture, but placed amongſt other Bodies, on which
+<pb n="4" facs="tcp:153430:5"/>they may variouſly act and be acted on, as the Agents and Patients differ amongſt each other, in reſpect of their Size, Shape, Poſture, Or<g ref="char:EOLhyphen"/>der, Texture, Pores, or Effluviums, Reſt or Motion; upon which accounts they are able to produce a great Variety of Effects: For we ſee a ſtrange Variety of Sounds produced alone by Muſical Inſtruments, not to mention a vaſt Number of other Accidents owing to it. But there are not only Qualities very various in Effects in ſeveral Bodies, but even in the ſame that are <hi>homogenious</hi> as to ſenſe. Inſtances of which are at large produced in the Second Chapter of the <hi>Epitomy,</hi> Vol. I. p. 26.</p>
+               </div>
+               <div n="3" type="section">
+                  <head>SECT. III.</head>
+                  <p>In the Third Chapter of the <hi>Epitomy,</hi> Vol. I. Book I. Reaſons are offered againſt the <hi>Ariſto<g ref="char:EOLhyphen"/>telian</hi> Doctrine of Forms; from whence it ap<g ref="char:EOLhyphen"/>pears, That the ſubſtantial Forms urged by the Schools are not the Cauſes of the various Forms of Mixed Bodies, but that they really depend on the different Textures and Modifications of the Compound.</p>
+               </div>
+               <div n="4" type="section">
+                  <head>SECT. IV.</head>
+                  <p>Chap. IV. ſhews, That tho' the Ingredients of a Compound uniting, make one Form, yet each of the Ingredients retain their peculiar Attributes and Qualities, and have each their peculiar Forms; which tho' they are ſubordi<g ref="char:EOLhyphen"/>nate to the General Form of the Compoſition,
+<pb n="5" facs="tcp:153430:5"/>yet they are nevertheleſs Specifick, in reſpect of thoſe Ingredients they belong to, as each Part of a Tree hath its peculiar Forms, diſtinct from the Form of the Whole, accordingly as the Juices and Virtues of the Salt of thoſe Parts differ, and as their eſſential Textures vary.</p>
+                  <p>And in this Chapter we are farther told, That the Faculties and Virtues of Animals and Plants depend not wholly on the Forms of mixed Bo<g ref="char:EOLhyphen"/>dies, conſidered as ſuch, ſince the Effects of a Compound Body may be attributed to the mixed Action of the Compound Ingredients, each of thoſe Bodies co-operating and modifying each others Actions; and this is evident, ſince, up<g ref="char:EOLhyphen"/>on a Diſſolution of that Union, each Body hath its determinate Form and Virtue.</p>
+                  <p>But here we muſt take notice, That ſome<g ref="char:EOLhyphen"/>times, when the Specifick Form of a Body is deſtroyed, the Qualities remaining may not al<g ref="char:EOLhyphen"/>ways be the Reſult of united, ſubordinate Forms, but depend on the determinate Forms of parti<g ref="char:EOLhyphen"/>cular Parts of that Body; and ſometimes ſeve<g ref="char:EOLhyphen"/>ral new Qualities may be added to a Body up<g ref="char:EOLhyphen"/>on the Abolition of a ſpecifick Form, by the Influence of external Agents.</p>
+                  <p>And to what hath been ſaid concerning ſub<g ref="char:EOLhyphen"/>ordinate Forms, we may add the following Par<g ref="char:EOLhyphen"/>ticulars.</p>
+                  <p n="1">I. That it is no difficult Matter to determine the Nobleneſs of Forms.</p>
+                  <p n="2">II. Tho' ſeveral Alterations are made in Bo<g ref="char:EOLhyphen"/>dies by a Receſs or Acceſs of Qualities, yet they retain the ſame Denomination, and are ſaid to
+<pb n="6" facs="tcp:153430:6"/>have the ſame Form, by reaſon of ſome Emi<g ref="char:EOLhyphen"/>nent Quality or Uſe.</p>
+                  <p n="3">III. Several Effects will be produced by Com<g ref="char:EOLhyphen"/>pound Bodies, upon the account of the Union and Joint-Action of their Ingredients.</p>
+                  <p n="4">IV. Sometimes a ſuperadded Form is acciden<g ref="char:EOLhyphen"/>tal to a pre-exiſtent; yet it modifies the Opera<g ref="char:EOLhyphen"/>tion of it, without altering its Nature.</p>
+                  <p n="5">V. Beſides the Operations of a Body, which are ſpecifick, in reſpect of the whole, it may have ſeveral Effects depending on the ſeperate and particular Properties of an Ingredient.</p>
+                  <p n="6">VI. That is often called the ſpecifick Form in Bodies, which is not the preſiding, but the moſt eminent.</p>
+                  <p n="7">VII. The Forms of a Body, generally called Subordinate, may with more Reaſon be called Concurrent, ſince upon their Coalition depends the Form of the Whole.</p>
+               </div>
+               <div n="5" type="section">
+                  <head>SECT. V.</head>
+                  <p>The Fifth Chapter ſhews, That a ſlight Va<g ref="char:EOLhyphen"/>riation of Texture produced by Motion, is able to diſcriminate Natural Bodies, and to cauſe them to have different Effects; as Ice and Salt will freeze other Liquors, tho' Water and Salt will not: Where it is alſo made to appear, that the Productions of Art are really the Effects of Nature, ſince the Artiſt only puts Natural Bodies together, but their Effects are really pro<g ref="char:EOLhyphen"/>duced according to the Laws of Nature.</p>
+               </div>
+               <div n="6" type="section">
+                  <pb n="7" facs="tcp:153430:6"/>
+                  <head>SECT. VI.</head>
+                  <p>The Sixth Chapter teaches, That the curious and various Figures of Salts may be produced without the Aſſiſtance of a Plaſtick Power, and may reſult from a bare Connexion of Metalline and Saline Bodies; and their Figures may vary according to the different Quantities of Liquors, or the Space of Time they ſhoot in. And as for Acids, they are obſerved to ſhoot into Chry<g ref="char:EOLhyphen"/>ſtals, variouſly figured, according to the Na<g ref="char:EOLhyphen"/>ture of the Menſtruum, or the Bodies it works upon; and that by ſlight Alterations, without the Aſſiſtance of ſubſtantial Forms, Salts may be obtained, appears from ſeveral Experiments laid down in that Chapter.</p>
+               </div>
+               <div n="7" type="section">
+                  <head>SECT. VII.</head>
+                  <p>The Eighth and Ninth Chapters, containing ſeveral Experiments, from whence it appears, conſonant to what hath been already delivered, That by Alteration of Texture, and a new Modification of Matter, ſeveral Changes may be wrought in Bodies, without the Help of ſub<g ref="char:EOLhyphen"/>ſtantial Forms: From which Experiments ſeve<g ref="char:EOLhyphen"/>ral Inferences are drawn to ſhew the Abſurdity of the <hi>Ariſtotelian</hi> Principles.</p>
+               </div>
+               <div n="8" type="section">
+                  <pb n="8" facs="tcp:153430:7"/>
+                  <head>SECT. VIII.</head>
+                  <p>The Tenth Chapter contains ſeveral Expe<g ref="char:EOLhyphen"/>riments, to ſhew, That by an Alteration of the Textures of Bodies, ſeveral Qualities may be deſtroyed in a Body, and regained again, and particularly in Salt-petre: As alſo, That the ſame Particles of Matter may have different Ef<g ref="char:EOLhyphen"/>fects, when in a fluid Form, from what they have when ſolid. And in the ſame Chapter it is made to appear, That Chymiſtry rather de<g ref="char:EOLhyphen"/>ſtroys than diſcovers the Principles of Natural Bodies.</p>
+               </div>
+               <div n="9" type="section">
+                  <head>SECT. IX.</head>
+                  <p>In the Eleventh Chapter, which contains the Hiſtory of <hi>Fluidity,</hi> we are told, That a Body is ſaid to be fluid, becauſe it conſiſts of Parts which eaſily ſlip upon one another's Surfaces, to which they are inclined by their porous In<g ref="char:EOLhyphen"/>terſtices; and becauſe, by the Motion of their Parts, they ſpread and diffuſe themſelves on every ſide, till oppoſed by ſome ſolid Body, to the Superficies of which they adapt themſelves.</p>
+                  <p>And in the ſame Chapter we are farther taught, That in order to render a Body fluid, it is requiſite the Parts of them ſhould be very minute, as alſo of a determinate Figure; That there ſhould be Pores betwixt their Parts, and that their Parts ſhould be in a perpetual and a variouſly determined Motion. It alſo ſhews us how a Fluid may be obtained from a Con<g ref="char:EOLhyphen"/>ſiſtent
+<pb n="9" facs="tcp:153430:7"/>Body; and having illuſtrated the Do<g ref="char:EOLhyphen"/>ctrine of <hi>Fluidity</hi> by Experience, it farther makes it evident, That the Reaſon why ſome Fluids will not mix with others, is only their particular Textures, and peculiar Motion of their Parts.</p>
+               </div>
+               <div n="10" type="section">
+                  <head>SECT. X.</head>
+                  <p>The Twelfth Chapter ſhews, That the Su<g ref="char:EOLhyphen"/>perficies of Liquids preſſing one againſt another, give each other different and determinate Fi<g ref="char:EOLhyphen"/>gures.</p>
+               </div>
+               <div n="11" type="section">
+                  <head>SECT. XI.</head>
+                  <p>The Thirteenth Chapter gives us the Hiſtory of <hi>Firmneſs,</hi> and tells us, That Solidity conſiſts in this, <hi>viz.</hi> That the groſs Parts of ſolid Bo<g ref="char:EOLhyphen"/>dies are ſo interwoven together, that they are unapt to diffuſe themſelves ſeveral ways, like Fluids; and that the Figure of their Superficies is chiefly owing to the Connexion of the Parts that compoſe them, rather than to outward Bodies; ſo that theſe Three Things ſeem chiefly to be the Cauſes of Solidity, <hi>Groſsneſs of Parts, Reſt,</hi> and the <hi>Implication of their Conſtituent Parts.</hi>
+                  </p>
+                  <p>In this Chapter he alſo teaches, That a Juxta-Poſition of Parts is not the only Cauſe of Co<g ref="char:EOLhyphen"/>heſion, but that the weight and ſpring of the Air is one great Cauſe; nevertheleſs a Juxta-Poſition of the Parts of Glaſs ſeems requiſite and ſufficient to make ſo compact a Subſtance, the Parts of the Matter of which it is compoſed
+<pb n="10" facs="tcp:153430:8"/>being firſt minutely divided by the Fire before their Union. And</p>
+                  <p>In this Chapter he farther teaches us, That the Figures and Textures of the Parts of a Bo<g ref="char:EOLhyphen"/>dy may not only contribute to their Solidity, but that ſome Liquids may become ſolid upon the Interpoſition of the minute Parts of ano<g ref="char:EOLhyphen"/>ther Body; and that a Liquor may become ſo<g ref="char:EOLhyphen"/>lid upon the Addition of a Powder only. And</p>
+                  <p>In the ſame Chapter we are farther taught, That fluid Bodies conſiſt not of Parts diviſible into Fluid, as Quantity into Quantity; That there is a Plaſtick Power inherent in ſeveral Bodies, and that Mixture is ſufficient to pro<g ref="char:EOLhyphen"/>duce Petrification.</p>
+               </div>
+               <div n="12" type="section">
+                  <head>SECT. XII.</head>
+                  <p>The Fourteenth Chapter contains ſeveral In<g ref="char:EOLhyphen"/>ſtances, to ſhew, That there is a Motion in the Parts of Conſiſtent and even Solid Bodies.</p>
+               </div>
+               <div n="13" type="section">
+                  <head>SECT. XIII.</head>
+                  <p>The Fifteenth Chapter, treating of the great Effects of languid and unheeded Motion, brings ſeveral Inſtances and Obſervations to prove</p>
+                  <p n="1">I. The great Efficacy of Celerity in Bodies very ſmall, eſpecially if the ſpace they move through be but ſmall, as in Lightning.</p>
+                  <p n="2">II. That the inſenſible Motion of ſo ſoft Bo<g ref="char:EOLhyphen"/>dies
+<pb n="11" facs="tcp:153430:8"/>as Fluids, may have a ſenſible Operation upon ſolid Bodies, as in Sounds, when they ſhake the Windows of a Houſe, <hi>&amp;c.</hi> at a con<g ref="char:EOLhyphen"/>ſiderable diſtance.</p>
+                  <p n="3">III. The Number of the inſenſible Parts of Matter put into Motion, enables them to per<g ref="char:EOLhyphen"/>form ſeveral things.</p>
+                  <p n="4">IV. That Local Motion may be propagated through ſeveral Mediums, and even Solid Bo<g ref="char:EOLhyphen"/>dies.</p>
+                  <p n="5">V. The Effects of particular Modifications of the Inviſible Motions of Fluids on Animal Bodies diſpoſed to be worked upon by them, are very conſiderable, as when a particular Note of a Muſical Inſtrument hath a peculiar Effect upon particular Animals.</p>
+                  <p n="6">VI. The Effects of Fluids upon inanimate Bo<g ref="char:EOLhyphen"/>dies, upon the account of a particular Texture and Modification of the Agent and the Patient, are alſo conſiderable.</p>
+                  <p n="7">VII. Some Bodies are looked upon to have their Parts abſolutely at reſt when they are only in a State of Tenſion or Compreſſion.</p>
+                  <p n="8">VIII. We are too apt to take notice of the viſible Effects of Bodies one upon another, with<g ref="char:EOLhyphen"/>out conſidering the inteſtine Motion of their Parts.</p>
+               </div>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="12" facs="tcp:153430:9"/>
+               <head>CHAP. II.</head>
+               <div n="1" type="section">
+                  <head>SECT. I.</head>
+                  <p>THE Firſt Chapter of the Second Book, treating of the Coſmical Qualities of Things, teaches us, That Coſmical Qualities depend partly on the Influence of external A<g ref="char:EOLhyphen"/>gents, as well as the primary Affections of Mat<g ref="char:EOLhyphen"/>ter. So that</p>
+                  <p n="1">I. Some Bodies are altogether inactive, till they are acted on; and that others are put into Action chiefly by the Influence of Catholick and unheeded Agents.</p>
+                  <p n="2">II. There are ſeveral Bodies, which, when put into Action, are ſubtle enough to inſinuate themſelves into the Pores of other Bodies, which they are forced to act on by the eſtabliſhed Laws of Nature; an Inſtance of which we have in the Expanſive force of Beans ſoaked with Water.</p>
+                  <p n="3">III. An Alteration of the Mechanical Tex<g ref="char:EOLhyphen"/>ture of a Body, is enough to diſpoſe it, or ren<g ref="char:EOLhyphen"/>der it unapt to be worked on by thoſe unheed-Agents.</p>
+               </div>
+               <div n="2" type="section">
+                  <head>SECT. II.</head>
+                  <p>In the Second Chapter he propoſes the follow<g ref="char:EOLhyphen"/>ing Suſpicions or Conjectures.</p>
+                  <pb n="13" facs="tcp:153430:9"/>
+                  <p n="1">I. That there are ſeveral Parts of Matter in the Aether, which are variouſly diſpoſed to work upon Bodies, according to the various Textures of thoſe Bodies they chance to work upon, or according to the difference of the A<g ref="char:EOLhyphen"/>gents they work concurrently with.</p>
+                  <p n="2">II. He tells us, That ſeveral People have diſ<g ref="char:EOLhyphen"/>covered Peſtilential Steams in the Air, before they began to act as ſuch upon other Bodies.</p>
+                  <p n="3">III. He ſuſpects, That there have been Chan<g ref="char:EOLhyphen"/>ges conſiderable enough in the Internal Parts of the Earth, from whence may be deduced a Reaſon of the irregular Variation of the Mari<g ref="char:EOLhyphen"/>ners Needle.</p>
+                  <p n="4">IV. He ſuppoſes the Ebbing and Flowing of the Sea, and ſuch like <hi>Phaenomena,</hi> to proceed from ſome Coſmical Law of Nature; or that the Planetary Vortex may be not a little con<g ref="char:EOLhyphen"/>cerned in the producing ſuch Effects.</p>
+                  <p n="5">V. He ſuppoſes all Endemical and Epidemical Diſtempers to be chiefly owing to the Influence of thoſe Globes which move about vs, and the Terreſtrial Effluvia of our own Globe.</p>
+               </div>
+               <div n="3" type="section">
+                  <head>SECT. III.</head>
+                  <p>The Third Chapter, treating of the Tem<g ref="char:EOLhyphen"/>perature of Subterraneal Regions, as to Heat and Cold, divides them into Three Regions, and tells us, That the Bounds, as well as Tem<g ref="char:EOLhyphen"/>perature of the Firſt, are very different.</p>
+                  <p>That the Temperature of the Second ſeems to be colder than that above or that below it,
+<pb n="14" facs="tcp:153430:10"/>being remoter both from the Influence of Exter<g ref="char:EOLhyphen"/>nal as well as Subterraneal Heat.</p>
+                  <p>In ſeveral Places, which may be referred to this middle Region, the Temperature of the Air is different at the ſame Seaſons of the Year; beſides, the different Temper of Subterraneal Regions may be varied by the Soil.</p>
+                  <p>And farther, The Temper of the Third Region is warm, which Warmth varies in ſe<g ref="char:EOLhyphen"/>veral Places.</p>
+               </div>
+               <div n="4" type="section">
+                  <head>SECT. IV.</head>
+                  <p>In the Fourth Chapter he only aſſigns Two Regions to the Sea, the one extended from the Superfices of the Water, as far as the Sun-Beams penetrate, and the other from thence to the utmoſt Depth of the Water; ſo that the upper-Region muſt vary, as to its Extent, ac<g ref="char:EOLhyphen"/>cording to the Difference of the Climate, and the Heat of the Sun, or the Nature of the Soils about the Shore; as for the lower-Region it is generally cold.</p>
+               </div>
+               <div n="5" type="section">
+                  <head>SECT. V.</head>
+                  <p>The Fifth Chapter informs us, That the bot<g ref="char:EOLhyphen"/>tom of the Sea is very rough and unequal; That the Water gravitates conſiderably upon Bodies immerſed in it; That the Bottom of the Sea is not diſturbed with Storms, but that the Water almoſt ſtagnates.</p>
+               </div>
+               <div n="6" type="section">
+                  <pb n="15" facs="tcp:153430:10"/>
+                  <head>SECT. VI.</head>
+                  <p>The Sixth Chapter gives the following Ac<g ref="char:EOLhyphen"/>count of Coral, <hi>viz.</hi> That when firſt taken up, it is ſoft, flexible, and very pale; but when the Bark is taken off, and it hath been expoſed to the Air, its natural Redneſs preſently appears. It is much paler on the Inſide, than on the out<g ref="char:EOLhyphen"/>ward Superfices.</p>
+                  <p>This Chapter likewiſe informs us, That ſe<g ref="char:EOLhyphen"/>veral Trees in <hi>Africa</hi> are obſerved to grow un<g ref="char:EOLhyphen"/>der Water.</p>
+               </div>
+               <div n="7" type="section">
+                  <head>SECT. VII.</head>
+                  <p>The Proportion of Salt to Water in Sea-Water, is obſerved to be as One to Forty; which Salt is ſupplied by Salt-Rocks, contigu<g ref="char:EOLhyphen"/>ous, or near the Water; or by Salt waſhed away and carried along by Springs and Rain-Water, which float into the Ocean, or by La<g ref="char:EOLhyphen"/>tent-Springs.</p>
+                  <p>As for the Bitterneſs commonly obſerved in Sea-Water, it probably proceeds from ſome bi<g ref="char:EOLhyphen"/>tuminous Bodies, carried along with Spring-Water into the Sea. And to theſe Obſerva<g ref="char:EOLhyphen"/>tions he adds, That Agitation is very requiſite to keep Sea-Water from ſtinking; and as to its Saltneſs, That it is obſerved to differ much in the Degrees of its Saltneſs.</p>
+               </div>
+               <div n="8" type="section">
+                  <pb n="16" facs="tcp:153430:11"/>
+                  <head>SECT. VIII.</head>
+                  <p>The Eighth, Ninth, Tenth, and the Eleventh Chapters, chiefly conſiſts of Queries propoſed for the Natural Hiſtory of Mineral Waters: Therefore I ſhall only take Notice here, that he gives the following Directions in trying Mine<g ref="char:EOLhyphen"/>ral Waters.</p>
+                  <p n="1">1. To obſerve the Changes of Colours made by Tinctures, in a good Light, which may help to diſtinguiſh what Mineral Tinctures they are impregnated with.</p>
+                  <p n="2">2. To vary the Shades of Colours produced by Mineral Waters, either by dropping ſuch Waters upon Paper, whoſe Pores are ſalurated with powdered Vitriol, or tinged with a Deco<g ref="char:EOLhyphen"/>ction of Logwood. Several Variations in Co<g ref="char:EOLhyphen"/>lours may be alſo made by dropping other Me<g ref="char:EOLhyphen"/>dicinal Liquors either into the Mineral Wa<g ref="char:EOLhyphen"/>ters, or the Infuſion of Galls, either before or after.</p>
+                  <p n="3">3. He recommends for ſuch Trials, not only the Parts of Aſtringent Plants, but Animal, and eſpecially Mineral Subſtances.</p>
+               </div>
+               <div n="9" type="section">
+                  <head>SECT. IX.</head>
+                  <p>In the Twelfth Chapter he tells us, That the Natural States of Bodies vary according to the Difference of Climates; ſo that it is the Natu<g ref="char:EOLhyphen"/>ral State of Water in ſome Parts and Seaſons,
+<pb n="17" facs="tcp:153430:11"/>to be froze, and turned into Ice, and in others to be always fluid. And he farther adds, That all violent States of Matter are not preternatu<g ref="char:EOLhyphen"/>ral; and that it is a common Error, That no<g ref="char:EOLhyphen"/>thing violent is durable, ſince it is evident, that the <hi>Atmoſphere</hi> we live in is always in a forced or a compreſſed State.</p>
+               </div>
+               <div n="10" type="section">
+                  <head>SECT. X.</head>
+                  <p>The Thirteenth Chapter contains a Deſcrip<g ref="char:EOLhyphen"/>tion of Mr. <hi>Boyle</hi>'s <hi>Pneumatick Engine,</hi> as alſo ſeveral Experiments tried with it; from whence it appears, That the Air acts upon moſt Bodies, by virtue of its Springineſs, by which it is in<g ref="char:EOLhyphen"/>clined always to expand; and by its Weight, by which it in its Gravitation preſſes upon Bo<g ref="char:EOLhyphen"/>dies below it, proportionably to the Weight of an incumbent Pillar of Air: And by virtue of this Weight it is that Mercury is raiſed in Weather-Glaſſes, and Water in Pumps.</p>
+                  <p>And by ſeveral other Experiments made in an exhauſted Receiver, it appears, That tho' Gun<g ref="char:EOLhyphen"/>powder will not explode when the Air preſſes not upon it, nor will Fire burn: Yet in the ex<g ref="char:EOLhyphen"/>hauſted Receiver it is obſerved, That a Load<g ref="char:EOLhyphen"/>ſtone hath, externally applied, conſiderable Effects on Bodies contained in it; but Sounds are not propagated in <hi>vacuo.</hi>
+                  </p>
+                  <p>In this Chapter he likewiſe farther teaches why two flat poliſhed Marbles adhere to each other, <hi>viz.</hi> By the Compreſſion of the <hi>Atmo<g ref="char:EOLhyphen"/>ſphere.</hi> As alſo, he tells us, That the Weight of the <hi>Atmoſphere</hi> was able to raiſe a Hundred
+<pb n="18" facs="tcp:153430:12"/>Pound Weight, tied to the Sucker of the Pump, depreſſed, when the Receiver was exhauſted.</p>
+                  <p>And in this Chapter he farther adds Experi<g ref="char:EOLhyphen"/>ments, which ſhew, That the Preſſure of the Air is the Chief Cauſe of Filtration: And as for the Diſtinction of the Proportion betwixt the Weight of Air and Water, he proves it to be but as 1 to 938; That the Proportion of Quick-ſilver is as 14000 to 1.</p>
+                  <p>And beſides theſe, he hath made ſeveral Ex<g ref="char:EOLhyphen"/>periments and Obſervations, which prove what Effects the Exhauſted Receiver hath on Animals included in it, and how long they are able to continue alive without Air.</p>
+               </div>
+               <div n="11" type="section">
+                  <head>SECT. XI.</head>
+                  <p>The Fourteenth, Fifteenth, Sixteenth, and Seventeenth Chapters, only contain a Defence of what hath been delivered in the foregoing Chapter; or Objections againſt what other Men have taught. And the Subjects of the follow<g ref="char:EOLhyphen"/>ing Chapters, to the Twenty ninth, being of the like nature, I ſhall not here tell what Noti<g ref="char:EOLhyphen"/>ons he hath confuted; but ſince he hath taught nothing, but only defended his former Aſſerti<g ref="char:EOLhyphen"/>ons, I ſhall refer the Reader to the <hi>Epitomy.</hi>
+                  </p>
+               </div>
+               <div n="12" type="section">
+                  <head>SECT. XII.</head>
+                  <p>The Nineteenth Chapter only contains a De<g ref="char:EOLhyphen"/>ſcription of an Engine made uſe of in the Ex<g ref="char:EOLhyphen"/>periments which fill up the next Chapter; where
+<pb n="19" facs="tcp:153430:12"/>it is made to appear, That Air is able barely by its Spring to raiſe Mercury in a Tube; as alſo, That Heat may be cauſed by a bare Attrition in an exhauſted Receiver; That the Spring of the Air is able to burſt Bladders, and to raiſe a conſiderable Weight; as alſo, That ſuch one is able to raiſe Mercury no higher than the Weight of the <hi>Atmoſphere</hi> is able to impel it; and like<g ref="char:EOLhyphen"/>wiſe to what heighth Mercury and Water may be raiſed proportionably to their Specifick Gra<g ref="char:EOLhyphen"/>vity.</p>
+                  <p>And in this Chapter we are farther told how to diſcover the Preſſure of the Air by <hi>the Touch,</hi> and how to make portable Baromelers; as alſo we are here taught, That in an exhauſted Re<g ref="char:EOLhyphen"/>ceiver a Spring may be raiſed without any diffi<g ref="char:EOLhyphen"/>culty; yet when the Air is let in, it will be violently depreſſed again, and not be raiſed again ſo eaſily.</p>
+                  <p>And in the ſame Chapter it is likewiſe made to appear, That Cupping-Glaſſes are cauſed to ſtick by the Preſſure of the Air.</p>
+                  <p>There are ſeveral other Particular Experi<g ref="char:EOLhyphen"/>ments contained in this Volume, which I ſhall not here take notice of, for Reaſons offered in my <hi>Preface.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="20" facs="tcp:153430:13"/>
+               <head>CHAP. III.</head>
+               <div n="1" type="section">
+                  <head>SECT. I.</head>
+                  <p>THE Firſt Chapter of the Third Book, beginning the Second Volume, contains ſeveral Experiments to prove farther the Weight and Spring of the Air; from whence it appears, That the Cauſe of the Aſcent of Water in Syringes is to be derived from the Preſſure of the Air; That Light may be produced in <hi>vacuo Boyliano;</hi> That by a ſmall Quantity of included Air 50 or 60 Pound, or a greater Weight, may be raiſed in the exhauſted Receiver.</p>
+               </div>
+               <div n="2" type="section">
+                  <head>SECT. II.</head>
+                  <p>The Second Chapter contains Deſcriptions of ſeveral Engines made uſe of in ſucceeding Expe<g ref="char:EOLhyphen"/>riments.</p>
+               </div>
+               <div n="3" type="section">
+                  <head>SECT. III.</head>
+                  <p>The Third Chapter ſhews, That the Produ<g ref="char:EOLhyphen"/>ctions of Air may be helped ſeveral ways, and that it may be obtained from Bread, Grapes, Raiſins, Plumbs, Muſtard, boiled Apples, <hi>&amp;c.</hi>
+                  </p>
+                  <p>In this Chapter we are likewiſe told how the Production of Air may be hindred, as by Cold, by making uſe of Spirit of Wine along with the
+<pb n="21" facs="tcp:153430:13"/>Body included in <hi>vacuo;</hi> or by employing Vine<g ref="char:EOLhyphen"/>gar, by Compreſſion; by Water, or Leaven.</p>
+                  <p>And in this Chapter we are farther taught, That the Effects of Artificial Air are different from the Effects of Common Air; as alſo, That the Effects of Compreſſed Air are different from thoſe of Common Air; That Animals cannot live in Artificial Air; That the Conſumption of Combuſtible Matter is promoted by the Con<g ref="char:EOLhyphen"/>denſation of the Air; That Air is produced from dried Fruits, without any Regularity; That Bodies afford as much Air as they can be<g ref="char:EOLhyphen"/>fore they putrifie; That Artificial Air may be deſtroyed; That Liquors may acquire a Sour<g ref="char:EOLhyphen"/>neſs, tho' no Spirits evaporate; That fermen<g ref="char:EOLhyphen"/>ted Liquors may preſerve Fruit; That Beer may preſerve Beef; and, That tho' Fiſhes yield not ſo much Air as Fleſh, yet they will corrupt, tho' not affected by the outward Air; That Butter may be preſerved a long time, if kept from the Contact of the outward Air; That Sugar does not preſerve Fruit as well as fer<g ref="char:EOLhyphen"/>mented Liquors; Fleſh may be kept freſh, if kept in a ſtrong compreſſed Air, in a Receiver.</p>
+               </div>
+               <div n="4" type="section">
+                  <head>SECT. IV.</head>
+                  <p>The Fourth Chapter ſhews, That Bodies may be preſerved a long time in <hi>Vacuo Boyliano,</hi> without boiling.</p>
+               </div>
+               <div n="5" type="section">
+                  <pb n="22" facs="tcp:153430:14"/>
+                  <head>SECT. V.</head>
+                  <p>The Fifth Chapter ſhews, That Air may be<g ref="char:EOLhyphen"/>come unfit for Reſpiration, and yet retain its uſual Preſſure; and alſo ſeveral Experiments, to ſhew how long ſome ſort of Animals may live without Air longer than others.</p>
+               </div>
+               <div n="6" type="section">
+                  <head>SECT. VI.</head>
+                  <p>The Sixth Chapter contains Animadverſions on Mr. <hi>Hobbe</hi>'s <hi>Problemata de Vacuo;</hi> and proves, That the <hi>Atmoſphere</hi> is the chief Cauſe of the Riſe of Water upon Suction.</p>
+               </div>
+               <div n="7" type="section">
+                  <head>SECT. VII.</head>
+                  <p>The Seventh Chapter delivers the Cauſe of Attraction by Suction, and tells us, That it chiefly depends on the external Preſſure of the Air, when it is taken off the Internal Surface of the Liquor in a Tube: And farther,</p>
+                  <p n="1">I. That a Liquor may be raiſed by Suction, when the Preſſure of the Air, neither as it hath Weight, nor Elaſticity, is the Cauſe of its Ele<g ref="char:EOLhyphen"/>vation.</p>
+                  <p n="2">II. That the Weight of the Atmoſpherical Air is ſufficient to raiſe up Liquors by Suction.</p>
+               </div>
+               <div n="8" type="section">
+                  <pb n="23" facs="tcp:153430:14"/>
+                  <head>SECT. VIII.</head>
+                  <p>The Eighth Chapter contains Obſervations and Directions about the <hi>Barometer;</hi> and the Ninth contains only a Deſcription of a new kind of <hi>Baroſcope.</hi>
+                  </p>
+               </div>
+               <div n="9" type="section">
+                  <head>SECT. IX.</head>
+                  <p>The Tenth Chapter contains a Diſcovery of the admirable Rarifaction of the Air, without Heat, it being rarified ſo as to poſſeſs 8232 times, its former Dimenſions, and ſometimes to 10000.</p>
+               </div>
+               <div n="10" type="section">
+                  <head>SECT. X.</head>
+                  <p>The Eleventh, Twelfth, and Thirteenth Chapters, ſhew, That the Duration of the Spring of expanded Air is very conſiderable; That the Air may be compreſſed into an eighth part of its former Space; That the Proportion, as to the Degrees of Rarification and Condenſation, is as 1 to 70.</p>
+               </div>
+               <div n="11" type="section">
+                  <head>SECT. XI.</head>
+                  <p>The Fourteenth Chapter gives us a brief Ac<g ref="char:EOLhyphen"/>count of the Utilities of <hi>Higgroſcopes,</hi> and tells us, That the General Uſe is to eſtimate the Changes of the Air, as to moiſture and drineſs; and the particular Uſes of them is to know the
+<pb n="24" facs="tcp:153430:15"/>differing Variations of Weather in the ſame Month, Day, and Hour; To know how much one Seaſon is drier or moiſter than another; To diſcover and compare the Changes of the Tem<g ref="char:EOLhyphen"/>perature of the Air, made by Winds, ſtrong or weak; Froſty, Snowy, and other Weather; To compare the Temperature of differing Hou<g ref="char:EOLhyphen"/>ſes and differing Rooms in the ſame Houſe; To obſerve in a Chamber the Effects of the Preſence or Abſence of Fire in a Chimney or Stove; To keep a Chamber at the ſame Degree or aſſigned Degree of Drineſs.</p>
+               </div>
+               <div n="12" type="section">
+                  <head>SECT. XII.</head>
+                  <p>The Eighteenth Chapter ſhews the Efficacy <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the Air's Moiſture, in contracting Ropes, <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>elling of Timber, and burſting of Marca<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>s.</p>
+               </div>
+               <div n="13" type="section">
+                  <head>SECT. XIII.</head>
+                  <p>The Nineteenth Chapter contains an Account of ſome unheeded Cauſes of the Inſalubrity and Salubrity of the Air, under the following Pro<g ref="char:EOLhyphen"/>poſitions:</p>
+                  <p n="1">I. That it ſeems probable, that in divers Places, the Salubrity or Inſalubrity of the Air, conſidered in General, may be in good part due to the ſubterraneal Expirations, eſpecially thoſe called Ordinary Emiſſions.</p>
+                  <pb n="25" facs="tcp:153430:15"/>
+                  <p n="2">II. It is probable, that in divers Places ſome Endemical Diſeaſes do chiefly or partly depend on Subterraneal Steams.</p>
+                  <p n="3">III. It is likely that divers Epidemical Diſea<g ref="char:EOLhyphen"/>ſes are in great part produced by Subterraneal Effluvia.</p>
+                  <p n="4">IV. It is probable that moſt of the Diſeaſes that Phyſicians call New ones, are cauſed either chiefly or concurrently by Subterraneal Steams.</p>
+               </div>
+               <div n="14" type="section">
+                  <head>SECT. XIV.</head>
+                  <p>The Twentieth and Twenty firſt Chapters ſhew, That there are ſeveral Latent Qualities in the Air, which ariſe from the Union and Conjunction of other Bodies with it, ſome of which may poſſibly be raiſed by the Heat of the Sun Beams; and alſo, That the Air ſeems to contain in it all ſorts of Seminal Principles.</p>
+               </div>
+               <div n="15" type="section">
+                  <head>SECT. XV.</head>
+                  <p>The Twenty ſecond Chapter contains an En<g ref="char:EOLhyphen"/>deavour to Improve Artificial Magnets. And the Twenty third and fourth Chapters ſhew, That Magnetical Qualities depend on a Me<g ref="char:EOLhyphen"/>chanical Conſtruction of the Conſtituent Parts of a Body, ſince that Quality may be altered by the Effects of Fire, and other Concurrent Ac<g ref="char:EOLhyphen"/>cidents, which can only Mechanically affect it.</p>
+               </div>
+               <div n="16" type="section">
+                  <pb n="26" facs="tcp:153430:16"/>
+                  <head>SECT. XVI.</head>
+                  <p>The Twenty fifth Chapter proves, by ſeveral Experiments, That Electricity may be Mecha<g ref="char:EOLhyphen"/>nically produced or deſtroyed.</p>
+               </div>
+               <div n="17" type="section">
+                  <head>SECT. XVII.</head>
+                  <p>The Twenty ſixth Chapter contains a Gene<g ref="char:EOLhyphen"/>ral Hiſtory of the Air; in which, ſince nothing is contained but what is Hiſtorical, it is not poſſible to relate the Subſtance in leſs room than it is there contained.</p>
+               </div>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="27" facs="tcp:153430:16"/>
+               <head>CHAP. IV.</head>
+               <div n="1" type="section">
+                  <head>SECT. I.</head>
+                  <p>THE Firſt Chapter of the Fourth Book proves, That Taſtes may be Mechanical<g ref="char:EOLhyphen"/>ly produced.</p>
+               </div>
+               <div n="2" type="section">
+                  <head>SECT. II.</head>
+                  <p>The Second and Third Chapters prove, That Odours and Colours depend on a Mechanical Texture of the Body endowed with them.</p>
+               </div>
+               <div n="3" type="section">
+                  <head>SECT. III.</head>
+                  <p>The Fourth Chapter contains an Experimen<g ref="char:EOLhyphen"/>tal Hiſtory of Colours; from whence it ap<g ref="char:EOLhyphen"/>pears, That Diverſity of Colours frequently de<g ref="char:EOLhyphen"/>note different Properties in Bodies, and that the Perception of Colours depends on a parti<g ref="char:EOLhyphen"/>cular Motion given to the Spirits in the Retina, and communicated to the Brain.</p>
+                  <p>As for the Cauſe of Colours, it depends on the various and differently modified Superficies of Bodies, or the various Figures of the ſuper<g ref="char:EOLhyphen"/>ficial Parts, and their Situation, and ſometimes the Motion of a Body, by which it is enabled to reflect the Rays of Light variouſly to the Eye.</p>
+                  <pb n="28" facs="tcp:153430:17"/>
+                  <p>As to Particular Colours, in the Fifth Chap<g ref="char:EOLhyphen"/>ter we are told, That Whiteneſs depends on ſuch a Superficial Texture as reflects the Rays of Light, not upon one another, but upon the Spectator's Eye, by reflecting them without Re<g ref="char:EOLhyphen"/>fraction; and that the Surfaces of White Bodies are Specular, and by a Change of the Texture of its Parts, a Body may be deprived of that Colour.</p>
+                  <p>Blackneſs differs from White, in as much as the Rays of Light are reflected inwards, and not upon the Eye, the Pratuberant Parts yield<g ref="char:EOLhyphen"/>ing to the Impreſſion of thoſe Lucid Rays.</p>
+                  <p>The Sixth and Seventh Chapters contains ſe<g ref="char:EOLhyphen"/>veral Experiments, which prove, That White<g ref="char:EOLhyphen"/>neſs and Blackneſs may be Mechanically altered or produced.</p>
+               </div>
+            </div>
+            <div n="5" type="chapter">
+               <pb n="29" facs="tcp:153430:17"/>
+               <head>CHAP. V.</head>
+               <div n="1" type="section">
+                  <head>SECT. I.</head>
+                  <p>IN the Firſt Chapter of the <hi>Appendix</hi> to the Fourth Book, he teaches, That Cold may be Mechanically produced or deſtroyed, by a bare Change of Texture, or Alterations other<g ref="char:EOLhyphen"/>wiſe Mechanically brought on, without the Aſ<g ref="char:EOLhyphen"/>ſiſtance of the <hi>Ariſtotelian</hi> ſubſtantial Forms, or the Hypoſtatical Principles of the Chymiſts.</p>
+               </div>
+               <div n="2" type="section">
+                  <head>SECT. II.</head>
+                  <p>Shews us, That not only Weather-Glaſſes but our Senſes may miſinform us about Cold, and the account of ſeveral Prediſpoſitions and the Temper of our Senſories; as we feel it colder in the Air, when we come out of a hot Bath, than when only out of a warm Room, <hi>&amp;c.</hi>
+                  </p>
+               </div>
+               <div n="3" type="section">
+                  <head>SECT. III.</head>
+                  <p>The Third Chapter contains Obſervations about the Deficiencies of Weather-Glaſſes, <hi>&amp;c.</hi> which ſince they teach us only how to learn to improve the uſe of them, and ſince they can<g ref="char:EOLhyphen"/>not be expreſſed in fewer Words, I muſt take no farther notice of them.</p>
+               </div>
+               <div n="4" type="section">
+                  <pb n="30" facs="tcp:153430:18"/>
+                  <head>SECT. IV.</head>
+                  <p>Tells us, That the Cauſe of the Condenſa<g ref="char:EOLhyphen"/>tion of the Air in Weather-Glaſſes, and the Aſcent of Water by Cold, depend on the Preſ<g ref="char:EOLhyphen"/>ſure of the external Air gravitating upon the Surface of the Water without the Pipe, and over-powering the Spring of the Internal Air, weakened by Cold.</p>
+               </div>
+               <div n="5" type="section">
+                  <head>SECT. V.</head>
+                  <p>The Fifth Chapter contains a Natural Hiſto<g ref="char:EOLhyphen"/>ry of Cold, which, ſince it will not admit of being otherwiſe related than Hiſtorically, I muſt refer the Reader to the <hi>Epitomy.</hi>
+                  </p>
+               </div>
+               <div n="6" type="section">
+                  <head>SECT. VI.</head>
+                  <p>The Sixth Chapter contains a Confutation of the Received Notion of <hi>Antiperiſtaſis.</hi> The Seventh, an Examination of Mr. <hi>Hobbe</hi>'s Do<g ref="char:EOLhyphen"/>ctrine of <hi>Cold;</hi> which being only Controver<g ref="char:EOLhyphen"/>ſial, I muſt paſs it by. And as for the Eighth and Ninth Chapters, they likewiſe containing bare Hiſtorical Truths, which admit of no Contraction, and this ſmall General Recapitu<g ref="char:EOLhyphen"/>lation will not admit of Tranſcribing the whole <hi>Epitomy.</hi>
+                  </p>
+               </div>
+               <div n="7" type="section">
+                  <pb n="31" facs="tcp:153430:18"/>
+                  <head>SECT. VII.</head>
+                  <p>The Tenth Chapter teaches us, that Cold is only a Privative Quality, depending on a Privation of the Motion of the Parts of a Bo<g ref="char:EOLhyphen"/>dy cooled.</p>
+               </div>
+               <div n="8" type="section">
+                  <head>SECT. VIII.</head>
+                  <p>The Eleventh Chapter ſhews, That the Ex<g ref="char:EOLhyphen"/>panſive Force of freezing Water is ſo great, as to be able, when froze in a Braſs Cilinder, to raiſe 254 Pounds, tho' the Cilinder was none of the largeſt. And in the ſame Chapter we are likewiſe told, That a cold Ebullition, or (if one may ſo ſpeak) Efferveſcence, depends purely upon the Texture of the fermenting Liquor.</p>
+               </div>
+               <div n="9" type="section">
+                  <head>SECT. IX.</head>
+                  <p>The Twelfth Chapter contains ſeveral Expe<g ref="char:EOLhyphen"/>riments, which prove, That Heat depends up<g ref="char:EOLhyphen"/>on, and is cauſed by a variouſly determined and a rapid Motion of this minute Parts of the Body eſteemed hot.</p>
+               </div>
+               <div n="10" type="section">
+                  <head>SECT. X.</head>
+                  <p>Contains an Account of a particular ſort of Mercury which grows hot with Gold.</p>
+               </div>
+               <div n="11" type="section">
+                  <pb n="32" facs="tcp:153430:19"/>
+                  <head>SECT. XI.</head>
+                  <p>From ſeveral Experiments made and contain<g ref="char:EOLhyphen"/>ed in the Fourteenth Chapter, it appears, That the Particles of Fire may be detained in Metal, and by that means add to the Weight of it. And the Fifteenth Chapter contains Experi<g ref="char:EOLhyphen"/>ments which have the ſame Tendency.</p>
+               </div>
+               <div n="12" type="section">
+                  <head>SECT. XII.</head>
+                  <p>The Sixteenth Chapter contains a Diſcove<g ref="char:EOLhyphen"/>ry of the Perviouſneſs of Glaſs to ponderable Parts of Flame; and alſo proves, That Flame may act as a Menſtruum, and make Coalitions with the Bodies it works upon.</p>
+               </div>
+               <div n="13" type="section">
+                  <head>SECT. XIII.</head>
+                  <p>The Seventeenth Chapter contains new Ex<g ref="char:EOLhyphen"/>periments concerning the Relation betwixt Flame and Air, from which it appears, that it is very difficult to produce Flame without Air, and impoſſible to preſerve it.</p>
+               </div>
+               <div n="14" type="section">
+                  <head>SECT. XIV.</head>
+                  <p>The Eighteenth Chapter contains Experi<g ref="char:EOLhyphen"/>ments about the Relation betwixt Air and the <hi>Flamma</hi> Vitals of Animals; from whence it
+<pb n="33" facs="tcp:153430:19"/>appears, That it is as impoſſible to preſerve Animals without Air as Flame.</p>
+               </div>
+               <div n="15" type="section">
+                  <head>SECT. XV.</head>
+                  <p>The Twentieth, Twenty firſt and ſecond Chapters, contain ſeveral Experiments which ſhew, That ſhining Fleſh and Fiſh, as well as Worms, ceaſe to become lucid, if deprived of the Contact of the Air.</p>
+               </div>
+               <div n="16" type="section">
+                  <head>SECT. XVI.</head>
+                  <p>The Twenty third Chapter contains ſeveral Experiments made with a Diamond which ſhone in the Dark.</p>
+               </div>
+               <div n="17" type="section">
+                  <head>SECT. XVII.</head>
+                  <p>The Twenty fourth and fifth Chapters give an Account of an Aerial and Icy <hi>Noctiluca,</hi> whoſe Lucidneſs depend on Fumes raiſed by the Saline Parts of the Air, which being united with the Air, affect the Eye jointly.</p>
+               </div>
+            </div>
+            <div n="5" type="chapter">
+               <pb n="34" facs="tcp:153430:20"/>
+               <head>CHAP. V</head>
+               <div n="1" type="section">
+                  <head>SECT. I.</head>
+                  <p>THE Five firſt Chapters of the Fifth Book, and the Firſt Part, ſhew, That Bodies have only a Relative Levity under Wa<g ref="char:EOLhyphen"/>ter; That the Air, by virtue of its Spring, preſſes on Bodies under Water; and that the Effects of the Air on ſuch Bodies vary accord<g ref="char:EOLhyphen"/>ing to the differing Weight of the <hi>Atmoſphere;</hi> and likewiſe contain an Invention for eſtima<g ref="char:EOLhyphen"/>ting the Weight of Water in Water.</p>
+               </div>
+               <div n="2" type="section">
+                  <head>SECT. II.</head>
+                  <p>The Sixth Chapter contains the following <hi>Hydroſtatical Paradoxes</hi> made out by ſeveral Experiments.</p>
+                  <p n="1">I. That in Water, and other Fluids, the lower parts are preſſed by the upper.</p>
+                  <p n="2">II. That a lighter Fluid may weigh upon a heavier.</p>
+                  <p n="3">III. That if a Body contiguous to the Wa<g ref="char:EOLhyphen"/>ter, be altogether or in part lower than the higheſt Level of the ſaid Water, the lower part of the ſaid Body will be preſſed upwards by the Water that touches it beneath.</p>
+                  <pb n="35" facs="tcp:153430:20"/>
+                  <p n="4">IV. That in the Aſcenſion of Water in Pumps, <hi>&amp;c.</hi> there needs nothing to raiſe the Water but a competent weight of an exter<g ref="char:EOLhyphen"/>nal Fluid.</p>
+                  <p n="5">V. That the Preſſure of an external Fluid is able to keep an Heterogeneous Liquor, ſuſpen<g ref="char:EOLhyphen"/>ded at the ſame height in ſeveral Pipes, tho' thoſe Pipes be of very different Diameters.</p>
+                  <p n="6">VI. If a Body be placed under Water with its uppermoſt Surface parallel to the Horizon, how much ſoever Water there may be on this or that ſide above the Body, the direct Preſ<g ref="char:EOLhyphen"/>ſure ſuſtained by the Body is no more than that of a Column of Water having the Hori<g ref="char:EOLhyphen"/>zontal Superficies of the Body for its Baſis, and the prependicular depth of the Water for its Heighth.</p>
+                  <p>And ſo likewiſe</p>
+                  <p>If the Water that leans upon the Body be contained in Pipes, open at both ends, the Preſſure of the Water is to be eſtimated by the weight of a Pillar of Water, whoſe Baſis is equal to the lower Orifice of a Pipe, and its heighth equal to a Perpendicular reaching thence to the top of the Water, tho' the Pipe be much inclined towards the Horizon, or tho' it be irregularly ſhaped, and much broader in ſome Parts than the ſaid Orifice.</p>
+                  <pb n="36" facs="tcp:153430:21"/>
+                  <p n="7">VII. That a Body immerſed in a Fluid ſu<g ref="char:EOLhyphen"/>ſtains a lateral Preſſure from the Fluid; and that increaſes as the Depth of the immerſed Body below the Surface of the Fluid increaſes.</p>
+                  <p n="8">VIII. That Water may be made to depreſs a Body lighter than it ſelf, as well as to buoy it up.</p>
+                  <p n="9">IX. That a parcel of Oil, lighter than Wa<g ref="char:EOLhyphen"/>ter, may be kept in Water, without aſcend<g ref="char:EOLhyphen"/>ing in it.</p>
+                  <p n="10">X. That the Cauſe of the Aſcent of Water is Syphons, and of flowing through them, may be explained without having recourſe to Na<g ref="char:EOLhyphen"/>ture's Abhorrency of a Vacuum.</p>
+                  <p n="11">XI. That a ſolid Body, as ponderous as any yet known, tho' near the top of the Water, will ſink by its own weight; yet if it be pla<g ref="char:EOLhyphen"/>ced in a greater depth than that of Twenty times its own thickneſs, it will not ſink, if its Deſcent be not aſſiſted by the weight of in<g ref="char:EOLhyphen"/>cumbent Water.</p>
+               </div>
+               <div n="3" type="section">
+                  <head>SECT. III.</head>
+                  <p>The Eighth Chapter contains a Deſcription of a new <hi>Hydoſtratical</hi> Inſtrument, to eſtimate the difference of Metals in goodneſs.</p>
+               </div>
+               <div n="4" type="section">
+                  <pb n="37" facs="tcp:153430:21"/>
+                  <head>SECT. IV.</head>
+                  <p>The Ninth Chapter contains a ſhort Ac<g ref="char:EOLhyphen"/>count of the Increaſe and Growth of Metals. And the remaining Chapters of the Firſt Part of the Fifth Books, lays down a Method to eſti<g ref="char:EOLhyphen"/>mate the Goodneſs of Ores, and alſo of Medi<g ref="char:EOLhyphen"/>cinal Subſtances; by which it may eaſily ap<g ref="char:EOLhyphen"/>pear, That if a Body be heavier than Chryſtal, it muſt contain more or leſs of a Metalline In<g ref="char:EOLhyphen"/>gredient, as it exceeds that in weight.</p>
+               </div>
+            </div>
+            <div n="6" type="chapter">
+               <pb n="38" facs="tcp:153430:22"/>
+               <head>CHAP. VI.</head>
+               <div n="1" type="section">
+                  <head>SECT. I.</head>
+                  <p>THE Second Part of the Fifth Book con<g ref="char:EOLhyphen"/>tains ſeveral ſolitary Obſervations and Experiments, both Chymical, Medicinal, and Phyſical; which, ſince nothing can be inferred from them, but what hath been already taught, it will be needleſs to mention what is contained therein, eſpecially ſince Hiſtorical Relations cannot be more contracted than in the <hi>Epitomy.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="6" type="chapter">
+               <pb n="39" facs="tcp:153430:22"/>
+               <head>CHAP. VI.</head>
+               <div n="1" type="section">
+                  <head>SECT. I.</head>
+                  <p>THE Firſt and Second Chapters of the Third Part of the Fifth Book, teach, That all Gems have been once in a fluid Form, and that they receive their Virtues and Colours from Mineral Tinctures.</p>
+               </div>
+               <div n="2" type="section">
+                  <head>SECT. II.</head>
+                  <p>The Second Chapter ſhews, That even ſolid Bodies continually emit Effluvia.</p>
+               </div>
+               <div n="3" type="section">
+                  <head>SECT. III.</head>
+                  <p>The Fourth Chapter ſhews the ſtrange Sub<g ref="char:EOLhyphen"/>tlety of Effluvia; a Grain of Silver Wyre, con<g ref="char:EOLhyphen"/>ſiſting of 64800 true Metalline Parts, and a Grain of Leaf-Gold being capable of being di<g ref="char:EOLhyphen"/>vided into 2000000 Squares. And Fillings of Copper will give a Tincture to 613620 times their Bulk of Water.</p>
+               </div>
+               <div n="4" type="section">
+                  <pb n="40" facs="tcp:153430:23"/>
+                  <head>SECT. IV.</head>
+                  <p>The Fifth Chapter ſhews the great Efficacy of Effluviums, as in Lightning; and other Ef<g ref="char:EOLhyphen"/>fluviums which affect Humane Bodies.</p>
+               </div>
+               <div n="5" type="section">
+                  <head>SECT. V.</head>
+                  <p>The Sixth Chapter proves, That the Efflu<g ref="char:EOLhyphen"/>viums of Bodies act according to the determi<g ref="char:EOLhyphen"/>nate Nature of the Body they come from.</p>
+               </div>
+               <div n="6" type="section">
+                  <head>SECT. VI.</head>
+                  <p>The Seventh and Eighth Chapters ſhew, That not only Animal, but other ſolid Bodies are porous.</p>
+               </div>
+               <div n="7" type="section">
+                  <head>SECT. VII.</head>
+                  <p>The Ninth and Tenth Chapters contain a Natural Hiſtory of Humane Blood; for which I muſt refer the Reader to the <hi>Epitomy,</hi> it not admitting of a Recapitulation of the Contents in much leſs room than they are there contained in.</p>
+               </div>
+               <div n="8" type="section">
+                  <head>SECT. VIII.</head>
+                  <p>The laſt Chapter of the Third Volume ſhews, That the Operations of Specifick Medicines
+<pb n="41" facs="tcp:153430:23"/>are Reconcilable to the Conpuſcular Philoſo<g ref="char:EOLhyphen"/>phy.</p>
+                  <p>What he hath delivered concerning the man<g ref="char:EOLhyphen"/>ner of their acting, it may be comprized un<g ref="char:EOLhyphen"/>der the following Heads.</p>
+                  <p>
+                     <label>Prop. I.</label> Sometimes a Specifick Medicine may cure by diſcuſſing or reſolving the Morbifick Matter, and thereby making it fit for Expulſi<g ref="char:EOLhyphen"/>on by the greater common-Shoars of the Body, and the Pores of the Skin.</p>
+                  <p>
+                     <label>Prop. II.</label> Sometimes a Specifick Medicine may mortifie the over-acid, or other immoderate Particles that infect the Maſs of Blood, and de<g ref="char:EOLhyphen"/>ſtroy their Coagulatory, or other Effects.</p>
+                  <p>
+                     <label>Prop. III.</label> Sometimes a Specifick Medicine may help the Patient, by precipitating the Morbi<g ref="char:EOLhyphen"/>ſick Matter out of his Blood, or the other Li<g ref="char:EOLhyphen"/>quors of the Body in which it harbours.</p>
+                  <p>
+                     <label>Prop. IV.</label> Sometimes a Specifick Medicine may work by peculiarly ſtrengthening and cheriſh<g ref="char:EOLhyphen"/>ing the Heart, the Part affected, or both.</p>
+                  <p>
+                     <label>Proy. V.</label> Sometimes a Specifick Medicine may act, by producing in the Maſs of Blood ſuch a Diſpoſition as may enable Nature, by correct<g ref="char:EOLhyphen"/>ing, expelling, or other fit Ways, to ſurmount the Morbifick Matter, or other Cauſe of the Di<g ref="char:EOLhyphen"/>ſeaſe.</p>
+                  <pb n="42" facs="tcp:153430:24"/>
+                  <p>
+                     <hi>Prop.</hi> VI. Sometimes a Specifick Medicine may unite with the Morbifick Matter, and compoſe a <hi>quid Nutrum,</hi> which may be leſs offenſive to Nature, tho' not ſo eaſily expelled.</p>
+               </div>
+               <div n="9" type="section">
+                  <head>SECT. IX.</head>
+                  <p>The Firſt Chapter of the Fourth Volume contains the Invitation of the uſe of Simple Me<g ref="char:EOLhyphen"/>dicines: Firſt, Becauſe their Effects may more eaſily be foreſeen than the Effects of a Compo<g ref="char:EOLhyphen"/>ſition, and therefore ſafer. Secondly, A great<g ref="char:EOLhyphen"/>er Quantity of a good Medicine may be taken, without being offenſive. And, Thirdly, Be<g ref="char:EOLhyphen"/>cauſe the Effects of the <hi>Materia Medica</hi> may be ſooner brought to a Certainty. The Second Chapter contains Hiſtorical Obſervations about Vitiated Sight.</p>
+               </div>
+            </div>
+            <div n="7" type="chapter">
+               <pb n="43" facs="tcp:153430:24"/>
+               <head>CHAP. VII.</head>
+               <div n="1" type="section">
+                  <head>SECT. I.</head>
+                  <p>THE Firſt Chapter of the Fourth Book contains the Author's Chymical Works, in which it is made to appear, that Chymical Principles are tranſmutable; That a Subſtance looked upon to be Homogenious, and a Chymi<g ref="char:EOLhyphen"/>cal Principle, may afford very differing Sub<g ref="char:EOLhyphen"/>ſtances, when acted on by the Fire; That Fire is not the True and Genuine Analizer of Bo<g ref="char:EOLhyphen"/>dies; That the Pipe does not ſeparate the Prin<g ref="char:EOLhyphen"/>ciples of a Body, but variouſly compound and alter the Texture of Body a expoſed to its A<g ref="char:EOLhyphen"/>ction; That Bodies obtained from Subſtances expoſed to the Fire, were not pre-exiſtent in thoſe Subſtances in the ſame Form.</p>
+               </div>
+               <div n="2" type="section">
+                  <head>SECT. II.</head>
+                  <p>The Second Chapter ſhews the Inſufficiency of the Arguments uſed by the Chymiſts and <hi>Ariſtotelians,</hi> in favour of their Doctrine; and the remaining part of the Fifth Book in Gene<g ref="char:EOLhyphen"/>ral ſhews, that Chymical Principles are pro<g ref="char:EOLhyphen"/>ducible, and depend on a Mechanical Structure and Texture of Parts.</p>
+                  <p>And farther, That the differing Subſtances into which Bodies may be divided by Fire, are not of a pure and elementary Nature; nor is
+<pb n="44" facs="tcp:153430:25"/>their Number either preciſely 3 or 5. And, laſtly, That there are divers Qualities which cannot be referred to any of theſe Subſtances.</p>
+               </div>
+               <div n="3" type="section">
+                  <head>SECT. III.</head>
+                  <p>And in one of the Chapters belonging to the Fourth Part of the Fifth Book, he conſi<g ref="char:EOLhyphen"/>ders and confutes the Doctrine of <hi>Acids</hi> and <hi>Alkali,</hi> ſhewing the Inſufficiency of that Do<g ref="char:EOLhyphen"/>ctrine.</p>
+               </div>
+               <div n="4" type="section">
+                  <head>SECT. IV</head>
+                  <p>The Sixth Book, which makes up the Re<g ref="char:EOLhyphen"/>maining Part of the <hi>Epitomy,</hi> contains an Ab<g ref="char:EOLhyphen"/>ſtract of ſome of his <hi>Phiſiological Eſſays</hi> of the Uſefulneſs of <hi>Experimental Philoſophy:</hi> But it is impoſſible to give any ſhorter Account of them than what is contained in the <hi>Epitomy.</hi>
+                  </p>
+               </div>
+            </div>
+         </div>
+         <div type="text">
+            <pb n="45" facs="tcp:153430:25"/>
+            <head>General Heads FOR THE Natural HISTORY OF A COUNTRY.</head>
+            <p>COnſidering the great Improvements that have been made in Natural Hiſtory by the Travels of Gentlemen, Seamen, and Others; And the great Diſadvantage ma<g ref="char:EOLhyphen"/>ny Ingenious Men are at in their Travels, be<g ref="char:EOLhyphen"/>cauſe they know not before-hand what things they are to inform themſelves of in every Coun<g ref="char:EOLhyphen"/>try they come to, or by what Method they may make Enquiries about Things to be known there, I thought it would not be unacceptable to ſuch, to have Directions in General, relating to Par<g ref="char:EOLhyphen"/>ticular Countries, in as little Bounds as poſſi<g ref="char:EOLhyphen"/>ble, preſented to their View.</p>
+            <p>As for the General Heads, I ſhall offer them to your Conſideration in the following Order,
+<pb n="46" facs="tcp:153430:26"/>
+               <hi>viz.</hi> As they reſpect the Heavens, or concern the Air, the Water, or the Earth.</p>
+            <p>
+               <hi>Firſt.</hi> Under the firſt kind may be reckon'd the Longitude and Latitude of the Place, and that in reſpect to the Changes made in the Air; the Climate, together with the Length of the longeſt and ſhorteſt Days, and the Parallels come here to be conſidered; the Retrogradation of the Sun upon Dials, within the Tropicks, and that naturally; what fix'd Stars, and what not ſeen there, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> The Temperature of the Air is to be conſidered, as to Heat, Drineſs and Moi<g ref="char:EOLhyphen"/>ſture, and the Meaſures of them, its Weight, Clearneſs, Refractive Power, its Subtilty or Groſneſs, its abounding with, or wanting an Eſurine Salt; its Variation according to the ſe<g ref="char:EOLhyphen"/>veral Seaſons of the Year, and the Times of the Day: How long the ſeveral kinds of Weather continue, what ſort of Meteors it breeds moſt commonly; in what Order they are generated, and how long they uſually laſt: Eſpecially what Winds 'tis liable to; whether any of them be ſtated, and ordinary, <hi>&amp;c.</hi> What other Diſeaſes are Epidemical, that are ſuppos'd to flow from the Air: What other Diſeaſes the Country is ſubject to, wherein that had a ſhare, <hi>e.g.</hi> the Plague and contagious Sickneſſes: What is the uſual Salubrity or Inſalubrity of the Air: And with what Conſtitution it agrees better or worſe than others. As alſo the Specifick Gravity of the Air, compar'd with the other foregoing Qualities: For this Effect it will be convenient
+<pb n="47" facs="tcp:153430:26"/>the Traveller be provided with a Travelling-Baroſcope, having the Diviſions uſual in the other Baroſcopes, mark'd upon a ſliding Ruler, which being once exactly mark'd for <hi>London,</hi> may ſerve for other Places; and for obſerving the Difference between the Air here and in other Places, and in moſt differing Climates, as in the Torrid and Frigid Zone, it has ano<g ref="char:EOLhyphen"/>ther Ruler coming out perpendicular from the lower end of the Sliding-Ruler, that it may mark the heighth of the <hi>Mercury</hi> in the lower Leg of the <hi>Syphon;</hi> ſo the Diviſions of the up<g ref="char:EOLhyphen"/>per end will ſhew you the Speciſick Gravity of the Air at that time.</p>
+            <p>
+               <hi>Thirdly,</hi> About the Water are to be conſide<g ref="char:EOLhyphen"/>red: 1. The Sea, its Depth, ſpecifick Gravity, Difference of Saltneſs in different Zones, the Plants, Inſects, and Fiſhes to be found in it, Tides, with reſpect to the adjacent Lands, Cur<g ref="char:EOLhyphen"/>rents, Whirl-pools, <hi>&amp;c.</hi> 2. Rivers, their Big<g ref="char:EOLhyphen"/>neſs, their Courſe, their Inundations, their Saltiſh Taſte, as they report obſervable in <hi>Jor<g ref="char:EOLhyphen"/>dan,</hi> Subterraneous Paſſages, Fruitfulneſs of their Waters, <hi>&amp;c.</hi> Their Lakes, as that of <hi>Schernitzer</hi> in <hi>Carniola,</hi> Ponds, Springs, and eſpe<g ref="char:EOLhyphen"/>cially Mineral Waters, what ſorts of Earth they run through, their Kinds, Qualities, and Ver<g ref="char:EOLhyphen"/>tues, and how examin'd; the ſorts of Fiſhes, their Bigneſs and Goodneſs, compared with the Ground at the bottom, their Plenty, their Sea<g ref="char:EOLhyphen"/>ſons, their ways of Breeding, their Haunts, and the ways of Taking them, eſpecially thoſe that are not purely Mechanical.</p>
+            <pb n="48" facs="tcp:153430:27"/>
+            <p>
+               <hi>Fourthly,</hi> In the Earth may be obſerved,
+<list>
+                  <item>I. It Self.</item>
+                  <item>II. Its Inhabitants, and its Productions, and thoſe Internal or External.</item>
+               </list>
+            </p>
+            <p n="1">I. As to its Self: What are its Dimenſions, Situation, Eaſt, Weſt, South, or North; its Figure, its Plains, Hills or Valleys, their Ex<g ref="char:EOLhyphen"/>tent, the Heighth of the Hills, either in re<g ref="char:EOLhyphen"/>ſpect of the neighbouring Valleys, or the Le<g ref="char:EOLhyphen"/>vel of the Sea; as alſo whether the Mountains lie ſcatter'd or in Ridges, and whether thoſe run North or South, Eaſt or Weſt, <hi>&amp;c.</hi> What Promontories, Fiery or Smoaking Hills, <hi>&amp;c.</hi> the Country has or hath not; whether ſubject to Earthquakes or not. Whether the Country is coherent, or much broken into Iſlands. What Declination the Magnet has in ſeveral Places at the ſame Time, and how much it varies in dif<g ref="char:EOLhyphen"/>rent Times at the ſame Place: Whether before the <hi>Turnados</hi> or <hi>Hurricanes,</hi> the Magnetical Needle loſes its Direction towards the North, and turns to all the Points of the Compaſs; and if this Declination is influenced by Subterra<g ref="char:EOLhyphen"/>neous Fire, deſtroying it within, or by Water overflowing the Surface of it, or by its Vicinity to Iron Mines. What kinds of Soils are there, whether of Clay, Sand, Gravel, <hi>&amp;c.</hi> What are its Products, as to Minerals, Vegetables or Animals: And moreover, how all theſe are or may be farther improved for the Benefit of Man, what are the Qualities of that Soil peculiar to it.</p>
+            <pb n="49" facs="tcp:153430:27"/>
+            <p n="2">II. The Inhabitants themſelves are to be con<g ref="char:EOLhyphen"/>ſider'd, both Natives and Strangers, that have been long ſettled there; particularly their Sta<g ref="char:EOLhyphen"/>ture, Shape, Features, Strength, Ingenuity, Diet, Inclination, that ſeem not due to Educa<g ref="char:EOLhyphen"/>tion. As to their Women, their Fruitfulneſs or Barrenneſs, their eaſie and hard Labour, with their Exerciſes and Diet; the Diſeaſes both Men and Women are ſubject to, peculiar to themſelves, compared with their Diet, Air, <hi>&amp;c.</hi> that do influence them.</p>
+            <p>The Products External are Plants, Trees, Fruits, <hi>&amp;c.</hi> with the Peculiarities obſervable in them (<hi>e. g.</hi> that of the Poiſon-wood, call'd <hi>Machenil</hi> in <hi>New-England,</hi> with its Cures) and what Soils they thrive beſt in. What Animals, Terreſtrial or Volatile, or Inſects of all ſorts they produce, and to what uſe applied by the Inhabitants, as to Meat, Phyſick, Surgery, or Dying, <hi>&amp;c.</hi>
+            </p>
+            <p>By the Internal Production of the Earth are to be underſtood here, Things procreated in the Bowels of the Earth, either for the Benefit or Hurt of Man; where Notice is to be taken what way the one may be beſt found out, and the other moſt eaſily avoided or cured. Under theſe are comprehended Metals, Minerals, Stones Precious or Common, and how theſe Beds lie in reference to North or South, <hi>&amp;c.</hi> What Clays and Earths it affords, <hi>e. g.</hi> Tobacco pipe-Clay, Marles, Boles, with their Phyſical or other U<g ref="char:EOLhyphen"/>ſes, Fullers Earth, Earth for Potters Ware, Soap, Earths, Axungiae, <hi>&amp;c.</hi> What Coals, Salts, or
+<pb n="50" facs="tcp:153430:28"/>Salt-Mines, as Allom, Vitriols, Sulphures, <hi>&amp;c.</hi> it yields. As for Mines, you are to conſider their Number, Situations, Depths, Signs, Wa<g ref="char:EOLhyphen"/>ters, Damps, Quantities of Ore, extraneous things, and ways of reducing their Ores into Metals, <hi>&amp;c.</hi> Where, by the way, you may in<g ref="char:EOLhyphen"/>form your ſelves of the Truth of what is re<g ref="char:EOLhyphen"/>ported by <hi>Agricola, Kircher,</hi> &amp;c. of Appariti<g ref="char:EOLhyphen"/>ons, and their Operations under Ground.</p>
+            <p>To theſe General Articles of Enquiries (ſaith their Propoſer) ſhould be added Enquiries about Traditions, concerning all particular things re<g ref="char:EOLhyphen"/>lating to that Country, as either peculiar to it, or at leaſt uncommon elſewhere.</p>
+            <p n="2">II. Enquiries that require Learning or Skill in the Anſwerer; to which ſhould be ſubjoin'd, Propoſals of Ways to enable Men to give An<g ref="char:EOLhyphen"/>ſwers to theſe more difficult Enquiries.</p>
+            <p>After the General Heads now propos'd, we ſhall mention thoſe that concern Navigators into Remote Places.</p>
+            <p>The Firſt agrees with what has been ſaid be<g ref="char:EOLhyphen"/>fore, <hi>viz.</hi> The Obſerving the Declination of the Compaſs, in the different Longitudes and Lati<g ref="char:EOLhyphen"/>tudes the Ship comes to, and ſetting down the Method by which the Obſervation was made.</p>
+            <p n="2">2. To take notice of the Dipping-Needles, and their Obſervations in the like manner.</p>
+            <pb n="51" facs="tcp:153430:28"/>
+            <p n="3">3. To obſerve the Odours, Colours, Taſtes in Sea-water, and what are the Particularities of that Sea-Water, where Ships do ſooneſt rot, as in the Streights of <hi>California</hi> the Sea looks red, with innumerable Worms that are in it.</p>
+            <p n="4">4. To remark, if (as is reported by <hi>Kircher</hi>) there be near the South Pole a conſtant Current, ſetting from the South, ſo forcibly, that Ships with a ſtiff Gale are hardly carried up againſt it; and near the North a Current forcibly car<g ref="char:EOLhyphen"/>rying Ships towards the Pole, or if this Motion reciprocate once in half a Year.</p>
+            <p n="5">5. To obſerve what ſubterraneous Paſſages there are, whereby Seas communicate with one another, as the <hi>Caſpian</hi> is ſuppoſed to do with the <hi>Black Sea;</hi> and the <hi>Dead Sea</hi> with the <hi>Red Sea.</hi>
+            </p>
+            <p n="6">6. To examine the Map made of the Straits by Captain <hi>Bolland,</hi> and the Account of the Tides he there gives.</p>
+            <p n="7">7. The Effect the Winds have upon the Seas, and how far down from the Surface they agi<g ref="char:EOLhyphen"/>tate the Waters.</p>
+            <p n="8">8. To take notice of the Tides, of the Eb<g ref="char:EOLhyphen"/>bings and Flowings, with the Age of the Moon when the Neap and Spring-Tides do happen, to what heighth it does ebb and flow at theſe Times upon the Coaſt of the <hi>Terra Firma,</hi> or upon the Iſlands far off in the Sea, as at St. <hi>He<g ref="char:EOLhyphen"/>lena,</hi>
+               <pb n="52" facs="tcp:153430:29"/>and if it flow there with difference from the Tides near the main Land, and how much ſooner it begins at one ſide than another.</p>
+            <p n="9">9. To take notice of the Coaſt, and to make narrowly the way of coming into particular Creeks and Harbours, with their Bearings and Diſtances from the neighbouring Places, as you come in.</p>
+            <p n="10">10. Not forgetting at the ſame time to ſound all along as you come in, and to mark the Depths and Shallows near the Shoar, or farther off from the Coaſt, near Shelves or Banks, and whether it increaſes or decreaſes in any Order.</p>
+            <p n="11">11. To mark in the Sounding all Grounds, whether Clayie, Sandy or Ouſie, <hi>&amp;c.</hi>
+            </p>
+            <p n="12">12. To take Notice of the Winds, their Changes, or ſet Times of Blowing, and in what Longitude and Latitude, eſpecially the Trade-Winds; upon what Coaſt the Trade-Winds are moſt frequent, and by what Signs they may be foreſeen.</p>
+            <p n="13">13. To Obſerve and Record all extraordi<g ref="char:EOLhyphen"/>nary Meteors, Lightnings, Thunders, and their Effects, <hi>Ignes Fatui,</hi> Comets, <hi>&amp;c.</hi> marking the Places of their Appearing and Diſappearing.</p>
+            <p n="14">14. To be provided with a nice pair of Scales, and exact Weights, for examining the Weights of the ſeveral Waters that occur, which I think may be moſt exactly done after
+<pb n="53" facs="tcp:153430:29"/>the Method propoſed by the Incomparable Mr. <hi>Boyle,</hi> in his <hi>Medicina Hydroſtatica, viz.</hi> weighing a Viol cloſe ſtopp'd with a Glaſs Stop<g ref="char:EOLhyphen"/>per firſt in the Air, then in Liquor: If the Vi<g ref="char:EOLhyphen"/>al be about two Ounces in the Air it will do the better: For the whole Method, becauſe 'tis too long to inſert into the Tract, I refer you to the Book it ſelf. This I propoſe as the moſt ſub<g ref="char:EOLhyphen"/>tile and accurate. If you like a plainer way, you may uſe the Method practiſed by the Noble Author elſewhere, <hi>viz.</hi> To fill a Glaſs Vial of four Ounces or more, with a ſmall Neck, full of the Water to be try'd, and to examine the Weight of it, which you may compare with another.</p>
+            <p n="15">15. 'Twill be convenient both for the Na<g ref="char:EOLhyphen"/>vigator and Philoſopher, to be provided with an Inſtrument for fetching up Water from the Bottom of the Sea, firſt publiſh'd by the Inge<g ref="char:EOLhyphen"/>nious Mr. <hi>Hooke,</hi> and transferr'd hither for the Benefit of the Curious Traveller; for by this he may know whether the Water at the Bottom be heavier and ſalter than at the Top; or whether there be freſh Water at the Bottom, occaſion'd by Springs of freſh Water there, as ſome pre<g ref="char:EOLhyphen"/>ſume there are, having obſerv'd in ſome Pla<g ref="char:EOLhyphen"/>ces Springs of freſh Water a great way within the Sea-marks. The Contrivance is this: A Wooden Bucket is faſtened to an Iron Rod, with a Weight to ſink it; this Bucket is ſhut at top and bottom with two Valves or Clacks, ſo contriv'd, that when it deſcends, it may open and let the Water paſs through; but when 'tis pull'd up again from the Bottom, it may ſhut
+<pb n="54" facs="tcp:153430:30"/>ſo cloſe as to keep in all the Water it has at that time, by the under Valve, and the ambient Wa<g ref="char:EOLhyphen"/>ter over it, from getting in by the upper Valve.</p>
+            <p>Having gone through the General Directions both for Sea and Land, we come to more Parti<g ref="char:EOLhyphen"/>cular ones, and ſhall begin firſt with thoſe that concern Mines; the Knowledge of which, tho' it began very early, and has been continu'd to our Times, yet is ſtill found improveable by Hu<g ref="char:EOLhyphen"/>mane Induſtry, as Experience has taught us, and therefore worthy to be conſider'd in the next Place, eſpecially ſeeing the Arts and In<g ref="char:EOLhyphen"/>ventions moſt uſeful for Man's Life, depend more upon this than any other; and that with<g ref="char:EOLhyphen"/>out it, the World ſhould want little of return<g ref="char:EOLhyphen"/>ing to its former Barbarity. All ſhall be redu<g ref="char:EOLhyphen"/>ced to Six General Heads, as has been done by the worthy Patron of Ingenious Arts, the Ho<g ref="char:EOLhyphen"/>nourable <hi>Robert Boyle,</hi> now in Glory.</p>
+            <p>
+               <hi>The Firſt,</hi> The Neighbouring Country about the Mines.</p>
+            <p>
+               <hi>The Second,</hi> The Soil where the Mines are.</p>
+            <p>
+               <hi>The Third,</hi> The Sign of Mines.</p>
+            <p>
+               <hi>The Fourth,</hi> The Structure, and other Parti<g ref="char:EOLhyphen"/>culars relating to the Mines themſelves.</p>
+            <p>
+               <hi>The Fifth,</hi> The Nature and Circumſtances of the Ore.</p>
+            <pb n="55" facs="tcp:153430:30"/>
+            <p>
+               <hi>The Sixth,</hi> The Reduction of the Ore into Metal.</p>
+            <div n="1" type="queries">
+               <head>Q<g ref="char:V">Ʋ</g>ERIES about the Firſt Title.</head>
+               <p n="1">I. Whether the Country be Mountainous, Plain, or diſtinguiſh'd with Valleys? And in caſe it be Mountainous, what kind of Hills they are, whether high or low, or indifferently ele<g ref="char:EOLhyphen"/>vated? whether almoſt equal, or very unequal in heighth? whether Fruitful or Barren, Cold or Temperate; Rocky or not; Hollow or So<g ref="char:EOLhyphen"/>lid? whether they run in Ridges, or ſeem con<g ref="char:EOLhyphen"/>fuſedly plac'd; and if the former, what way the Ridges run, <hi>North</hi> or <hi>South,</hi> &amp;c.? And whe<g ref="char:EOLhyphen"/>they run any thing parallel to one another?</p>
+               <p n="2">II. What the Country produces, and what is moſt plenty?</p>
+               <p n="3">III. What Cattle it produces? whether they have any thing peculiar in point of Bigneſs, Colour, Longevity, Fitneſs or Unfitneſs to make good Meat, and other Things, which may ra<g ref="char:EOLhyphen"/>ther be attributed to the peculiar Nature of the Place, than the Barrenneſs of the Soil, or other manifeſt Cauſes?</p>
+               <p n="4">IV. What Health the Inhabitants enjoy? what Diſeaſes they are ſubject to, and to what not? for 'tis ſaid, that ſuch as dwell near Quickſilver Mines are ſeldom troubled with the Plague:
+<pb n="56" facs="tcp:153430:31"/>And laſtly, what Remedies are found for the Epidemick Diſeaſes of the Place?</p>
+               <p n="5">V. What plenty of Rivers, Brooks, Lakes, Springs,
+<note place="margin">
+                     <hi>N. B.</hi> Mr. <hi>Boyle</hi> ſays ſome<g ref="char:EOLhyphen"/>where, That a Reddiſh Mineral Water has been drunk to ſatisfie Thirſt, without any Hurt.</note> 
+                  <hi>&amp;c.</hi> in theſe, and how theſe are in Co<g ref="char:EOLhyphen"/>lour, Taſte, <hi>&amp;c.</hi> and how they affect the Health of thoſe that uſe them?</p>
+               <p n="6">VI. How the Air is diſpoſed, as to Heat or Cold, Calms or Winds; and whether theſe Winds do proceed from, or are infected with Subterraneous Steams? whether Clear or Foggy?</p>
+            </div>
+            <div n="2" type="queries">
+               <head>About the Second Title.</head>
+               <p n="7">VII. Whether the Soil that is near the Sur<g ref="char:EOLhyphen"/>face of the Earth be ſtony; and if ſo, what ſort of Stones it abounds with, whether it be Clayie, Marly, or Chalky? and of how many kinds this is, and by what Properties they are diſtinguiſh'd?</p>
+            </div>
+            <div n="3" type="queries">
+               <head>About the Third Title.</head>
+               <p n="8">VIII. By what Signs they conjecture a Mine to be in a Place?</p>
+               <p n="9">IX. And ſeeing theſe Signs are either above or beneath the Surface of the Earth, <hi>Quaer.</hi> Whe<g ref="char:EOLhyphen"/>ther
+<pb n="57" facs="tcp:153430:31"/>the Ground be barren where theſe Metal Mines are?</p>
+               <p n="10">X. What Trees or Plants do moſt plentifully grow in theſe Places, and do thrive well or ill in theſe Places? whether they be more dwarfiſh, more diſcolour'd in the Leaves, or have any preternatural Colour in them?</p>
+               <p n="11">XI. What Alteration is produc'd in the Wa<g ref="char:EOLhyphen"/>ters that run from them, either as to their Colour, Taſte, Smell, Ponderouſneſs, or the Matter that they leave upon the Stones they run over.</p>
+               <p n="12">XII. Whether Snow or Ice continue as long in theſe Places as they do in the neighbouring Places?</p>
+               <p n="13">XIII. Whether the Dew that falls on the Ground will diſcolour a white Linnen Cloth, ſpread on the Surface of the Earth? and whe<g ref="char:EOLhyphen"/>ther the Rain brought thither from other Places will diſcolour ſuch Cloaths, or afford any Re<g ref="char:EOLhyphen"/>ſidence of a Mineral Nature?</p>
+               <p n="14">XIV. Whether Thunder, Lightnings and Storms do abound there? and if there be any Fiery Meteors and Nocturnal Lights obſerved there?</p>
+               <p n="15">XV. Whether Miſts do ariſe from ſuch Mi<g ref="char:EOLhyphen"/>neral Grounds; what is obſervable in them; what Minerals they ſignifie, and may be ſup<g ref="char:EOLhyphen"/>pos'd to be produc'd by?</p>
+               <pb n="58" facs="tcp:153430:32"/>
+               <p n="16">XVI. Whether the <hi>Virgula Divinatoria</hi> be us'd for the finding out the Mines, and with what Succeſs.</p>
+               <p>As for thoſe Signs that are beneath the Sur<g ref="char:EOLhyphen"/>face.</p>
+               <p n="17">XVII. <hi>Quaer.</hi> Whether there be any Clays, Marles, or other Mineral Earths, and of what Conſiſtence they are that give Notice of the Ores; and if there be more than one, and at what Depth they lie, in reſpect of one ano<g ref="char:EOLhyphen"/>ther, and how thick they are.</p>
+               <p n="18">XVIII. What Stones, Marcaſites, <hi>&amp;c.</hi> there are to be found near or not far from the Sur<g ref="char:EOLhyphen"/>face, which give Signs of thoſe Mines, as it happens in the Tin-Mines of <hi>Cornwal,</hi> where Marcaſites are often found above the Ore; what is the particular Shapes, Bigneſs, Colour and Weight of ſuch Stones, whereby they are diſtinguiſhable from others.</p>
+               <p n="19">XIX. Whether Heat or Damps are a Sign of a Mine.</p>
+               <p n="20">XX. Whether Water found in Digging be a Sign of a Mine.</p>
+               <p n="21">XXI. By what Signs the Nearneſs of a Mine is known; and whether by any Sign one may know whether he is above, beneath, or at the ſide of the Mine.</p>
+               <pb n="59" facs="tcp:153430:32"/>
+               <p n="22">XXII. By what Signs the determinate Kinds of Metals are known, with their Plenty or Goodneſs.</p>
+               <p n="23">XXIII. What Signs there are of the Depth of the Mines; what Signs there are of the Mines being hopeleſs, or at leaſt unlikely, to find a Vein in the Place where 'tis digged for, and what theſe are.</p>
+            </div>
+            <div n="4" type="queries">
+               <head>About the Fourth Title.</head>
+               <p n="24">XXIV. What is the Depth of the Shaft or Groove, till you come at the Vein or Ore; whe<g ref="char:EOLhyphen"/>ther the Vein run or lie horizontal or dip; and if it dip, what Inclination it hath, how deep the loweſt part lies, and conſequently how much deeper than the uppermoſt.</p>
+               <p n="25">XXV. As alſo what its Flexures, if it have any, are; and whether it runs directly North or South, Eaſt or Weſt, or ſeem rather to have a caſual Tendency than any Determination by Nature, and how far it reaches in all.</p>
+               <p n="26">XXVI. What is the wideneſs of the Groove at the top and elſewhere; whether the Groove be perpendicular or crooked, and if crooked, after what manner, and with what Diſtance it winds.</p>
+               <p n="27">XXVII. How the Groove is ſupported; what are the kinds, length, bigneſs, and way of pla<g ref="char:EOLhyphen"/>cing
+<pb n="60" facs="tcp:153430:33"/>the Timber, Poles, <hi>&amp;c.</hi> that are imploy'd to ſupport it; and how long the Wood laſts, without being ſpoil'd by the Subterraneous Fumes and Waters, and what Wood laſts longeſt.</p>
+               <p n="28">XXVIII. What Air-ſhaft belongs to the Mine; whether it be ſingle or more than one; of what Breadth the Air-ſhaft is at the Ori<g ref="char:EOLhyphen"/>fice; whether it be convenient enough or not; how near 'tis plac'd to the Groove, and in what Poſition; if there be ſeveral Air-ſhafts, what their Diſtances and Situation are, in reference to the Groove, and to each other; and how Air is ſupply'd, if there be no Air-ſhafts.</p>
+               <p n="29">XXIX. Whether they meet with Waters, and what Plenty there is of them; at what Depth they are found, and how qualified, and what way they ſpring, <hi>&amp;c.</hi>
+               </p>
+               <p n="30">XXX. Whether they are conſtant or tempo<g ref="char:EOLhyphen"/>rary; whether they increaſe or diminiſh nota<g ref="char:EOLhyphen"/>bly in <hi>Summer,</hi> or at any time of the Year; and what that Seaſon is, how long it laſts, and the Proportions of Increaſe and Decreaſe.</p>
+               <p n="31">XXXI. What Engines or Contrivances are made uſe of for drawing up the Water, and con<g ref="char:EOLhyphen"/>veying it away, the Materials they are made of, the Parts, the Bigneſs, the Coaptation, and in ſhort the whole Structure, number and way of applying the Inſtruments that are made uſe or to free the Mines from the Water.</p>
+               <pb n="61" facs="tcp:153430:33"/>
+               <p n="32">XXXII. What are the Conditions, Num<g ref="char:EOLhyphen"/>ber, <hi>&amp;c.</hi> of the Adits.</p>
+               <p n="33">XXXIII. Whether the Mines be troubled with Damps, and of what kind they are; whether they come often or ſeldom at any Time of the Year, or altogether irregularly.</p>
+               <p n="34">XXXIV. What Signs forerun them; what Miſchief they do; what Remedies are the moſt ſucceſsfully employed againſt them, as well in reference to the Clearing of the Mine, as to the Preſervation and Recovery of the Men.</p>
+               <p n="35">XXXV. What Methods the Mine-men uſe in following of the Vein, and tracing their Paſſa<g ref="char:EOLhyphen"/>ges under Ground (which they call Plumming and Dyalling) according to the ſeveral Exigen<g ref="char:EOLhyphen"/>cies; and whether they imploy the Inſtruments made with the Help of the Loadſtone, the ſame way that is uſual; and, if not, wherein they differ in the Uſe of the ſame Inſtruments; and what Inſtrument they ſubſtitute in their place.</p>
+               <p n="36">XXXVI. What ways they ſecure themſelves againſt the Uncertainty that the Magnetical Needle is ſubject to when it comes near to Iron Ore, of which yet perhaps there is not ſo great Danger as one may imagine, as far as I could find by a Trial purpoſely made by a Groove, where I was ſure there wanted not Iron Ore;) and what other ways may be uſed, beſides a Load-ſtone, to help a Miner.</p>
+               <pb n="62" facs="tcp:153430:34"/>
+               <p n="37">XXXVII. How the Miners deal with the Rock and Spar they meet with before they come at the Ore; and how they uſe Fire to ſoften, calcine, or crack them; with what Succeſs they imploy it.</p>
+               <p n="38">XXXVIII. By what means they free the Mines and the Workmen from the Inconvenien<g ref="char:EOLhyphen"/>ces ariſing from the much uſe of the Fire.</p>
+               <p n="39">XXXIX. With what Inſtruments they break the Rock, how long they are uſed, and how long they laſt.</p>
+               <p n="40">XL. How the Miners work, whether cloathed or naked, and what Lights they uſe to work by; what Materials they are made of, and what Light they give; how long they laſt, and by what ways they are kept burning in that thick and foggy Air.</p>
+               <p n="41">XLI. How Veins are followed, loſt, and re<g ref="char:EOLhyphen"/>cover'd; and how ſeveral Miners work on the ſame Vein, and what is the beſt way of getting all the Ore in a Vein, and moſt conveniently.</p>
+               <p n="42">XLII. How they convey out their Ore, and other Things that are to be carried out of the Mine; whether they do it in Baskets drawn up by Ropes, or upon Mens Backs; and if this laſt kind of way, what kind of Veſſels they uſe for Matter, Shape and Capacity, and whether the Workmen deliver them one to another, or the ſame Workmen carry them all the way; and
+<pb n="63" facs="tcp:153430:34"/>whether they deſcend and aſcend by Ladders of Wood or Ropes, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div n="5" type="queries">
+               <head>About the Fifth Title.</head>
+               <p n="43">XLIII. Whether the Ore runs in a Vein, or lie diſpers'd in ſcatter'd Pieces, or be divided partly into a Vein, partly into looſe Maſſes, or like a Wall between two Rocks, as it were in a Cleft, or be interſpers'd in the firm Rock, like ſpeckled Marble, or be found in Grains like Sand or Gravel, as ſtore of excellent Tin is ſaid to be found in ſome Parts of <hi>Cornwal,</hi> at the Sides and in the Channels of Running Waters, which they call — or whether the Ore be in a ſofter Conſiſtence, like Earth or Lome, as there is Lead Ore in <hi>Ireland,</hi> holding ſtore of Silver and Iron Ore in the North Parts of <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> and elſewhere, and what is obſervable in it, as to Weight, Colour, Mixture, <hi>&amp;c.</hi>
+               </p>
+               <p n="44">XLIV. Whether any part of the Metal be found in the Mine perfect and compleat (as I have had preſented me good valuable Copper, and pieces of perfect Lead, that were taken up, the one at <hi>Jamaica,</hi> and the other by an. Ac<g ref="char:EOLhyphen"/>quaintance of mine, that took them out of the Ground himſelf, in <hi>New-England.</hi>)</p>
+               <pb n="64" facs="tcp:153430:35"/>
+               <p n="45">XLV. Whether the Mine affords any parcels of Metal that ſeem to grow like Plants, (as I have ſometimes ſeen Silver grow, as it ſeemed, out of Stone or Spar, almoſt like Blades of Graſs, as alſo great Grains of Metal, which ap<g ref="char:EOLhyphen"/>pear'd to me, and which thoſe that try'd ſome of it, affirm'd to be Gold, abounding in a ſtony Lump, that ſeem'd chiefly to conſiſt of a pecu<g ref="char:EOLhyphen"/>liar kind of Spar.</p>
+               <p n="46">XLVI. Whether the Vein lie near the Sur<g ref="char:EOLhyphen"/>face of the Earth, and at what Depth; whether the Vein have not any peculiar concomitant Coats, (if I may ſo call them,) and if any, what they are, and in what Order they lie, as the Veins of Lead Ore with us have frequently an<g ref="char:EOLhyphen"/>nexed to them a Subſtance called Spar, and next to that another call'd Caulk.</p>
+               <p>Whether (beſides theſe Coats) they have be<g ref="char:EOLhyphen"/>longing to it any other Heterogeneous Subſtance, (as in Tin-Mines we often find that yellow Sub<g ref="char:EOLhyphen"/>ſtance they call Mundick)</p>
+               <p n="47">XLVII. What are the principal Qualities of theſe extraneous Subſtances, (as that Spar is white, but almoſt tranſparent, like courſe Cry<g ref="char:EOLhyphen"/>ſtal, heavy, brittle, eaſily diviſible into Flakes, <hi>&amp;c.</hi> Caulk is of a different Texture, white, opa<g ref="char:EOLhyphen"/>cous, and like a Stone, but much more ponde<g ref="char:EOLhyphen"/>rous. Mundick I have had of a fine golden Co<g ref="char:EOLhyphen"/>lour; but tho' it be affirm'd to hold no Metal, yet I found it in weight and otherwiſe to differ
+<pb n="65" facs="tcp:153430:35"/>from Marcaſites, and the Mine-men think it of a poiſonous Nature.</p>
+               <p n="48">XLVIII. Whether the Vein be inclos'd every way in its Coats, or whether it lie only between them.</p>
+               <p n="49">XLIX. Whether the Vein be every way of an uniform Breadth and Thickneſs; and if it be, what theſe Dimenſions are; and if not, in what Places it varies, and in what Meaſures; (the like Queſtions are to be made concerning the Spar, Caulk, and other Mixtures of the Ore.)</p>
+               <p n="50">L. Whether the Vein be uninterrupted, or in ſome Places broken off; and whether it be abruptly or not; and whether it be by Vales, Brooks or Gullets, <hi>&amp;c.</hi>
+               </p>
+               <p n="51">LI. How wide the Interruptions are; by what Signs the Veins are to be found again; whether the ulterior part or diviſion of the Vein be of the ſame nature and hold on in the ſame courſe, as to its tendency upwards and downwards, or horizontally, Northward or Southward, <hi>&amp;c.</hi> with the Vein from which 'tis cut off.</p>
+               <p n="52">LII. Whether in caſe the laſt end of the Vein be found, it terminate abruptly, or elſe end in ſome kind of Rock or Earth, which does as it were cloſe or ſeal it up, without leaving any Crack or Cranny, or otherwiſe; and whether the terminating part of the Vein tends either upward or downwards, or neither. Or whe<g ref="char:EOLhyphen"/>ther
+<pb n="66" facs="tcp:153430:36"/>in the Places where the Vein is interrupted, there be any peculiar Stone or Earth that does, as it were, ſeal up the Extremity of it.</p>
+               <p n="53">LIII. Whether it be obſerv'd that the Ore in Tract of Time may afford any Gold or Silver, which it doth not afford, or more than it would afford if it were not ſo ripe; and whether or not it have been found that the metalline part of the Vein grows ſo, that ſome part of the Ore will afford Ore or Metal in Tract of Time, that did not ſo before; and whether to this Maturation of the Mine, the being expoſed to the free Air be neceſſary; or whether at leaſt it conduce to the acceleration of it, or other<g ref="char:EOLhyphen"/>wiſe.</p>
+               <p n="54">LIV. Whether all the Ore contain'd in the Mine be of the ſelf-ſame Nature and Goodneſs, and if not, what are the differing kinds, and how to be diſcriminated and eſtimated.</p>
+               <p n="55">LV. What is the Fineneſs and Goodneſs, by which the Mine is wont to be eſtimated. And,</p>
+               <p n="56">LVI. What are the Marks and Characters that diſtinguiſh one ſort from another.</p>
+               <p n="57">LVII. What Proportion of Metal it affords; (as in our Iron Mines is obſerv'd, that about three Tons of Iron Stone will afford one Ton of Metal: And I have had Lead Ore, which an Ingenious Man, to whom I recommended ſuch Trials, affirmed to me to afford three parts in four of good Lead)</p>
+               <pb n="67" facs="tcp:153430:36"/>
+               <p n="58">LVIII. Whether the Ore be pure in its kind from other Metals; and if not, of what Metals it participates, and in what Proportion, which is eſpecially to be enquir'd into, eſpecially if the Mine be of a baſe Metal, that holds a noble Metal, (as I have known it obſerv'd, That Lead Ore, that is poor in its own Metal, affords more Silver than other; and I remember, that the Ore lately mentioned, being rich in Lead, ſcarce afforded us, being cupell'd) an Atome of Sil<g ref="char:EOLhyphen"/>ver. And <hi>Matheſius</hi> informs us, That a little Gold is not unfrequently found in Iron Ore: And I have by me ſome fine Gold that never endur'd the Fire, taken out of Tin Ore.</p>
+            </div>
+            <div n="6" type="queries">
+               <head>About the Sixth Title.</head>
+               <p n="59">LIX. What Preparations are us'd before the melting of the Ore, as Beating, Grinding, Waſhing, Toſting, or Parting, as is moſt fre<g ref="char:EOLhyphen"/>quently us'd in Copper Ore, and ſometimes in Iron Ore; if they uſe this Burning more than once, how often they do it, (for Copper Ore is in ſome Places waſh'd eight or ten times, and in other twelve or fourteen,) and with what Cir<g ref="char:EOLhyphen"/>cumſtances, as how long the Ignition laſts at a time; whether the Ore be ſuffer'd to cool of it ſelf, or be quenched; whether it be waſh'd be<g ref="char:EOLhyphen"/>twixt each Ignition; or whether the Ore re<g ref="char:EOLhyphen"/>quires no ſuch Preparations, as it often happens in Lead Ore, and ſometimes in Iron.</p>
+               <pb n="68" facs="tcp:153430:37"/>
+               <p n="60">LX. Whether <hi>Mercury</hi> is made uſe of in ſe<g ref="char:EOLhyphen"/>parating the Nobler from the Baſer Metals, (as in <hi>Peru,</hi> &amp;c.</p>
+               <p n="61">LXI. Whether (as I have ſeen done in Iron Stone) the Ore be expos'd to the Air, as a Pre<g ref="char:EOLhyphen"/>parative.</p>
+               <p n="62">LXII. What Flux-Powders they uſe for redu<g ref="char:EOLhyphen"/>cing their Ores in ſmall Quantities.</p>
+               <p n="63">LXIII. Whether in reducing or melting great Quantities they uſe any Addition of Flux-pow<g ref="char:EOLhyphen"/>der, (or <hi>Fondant,</hi> as the <hi>French</hi> term it,) or only by the Force of the Fire, or in any way between both, (as throwing in of Charcoals when they melt Iron Stone, does not only ſerve to feed the Fire, but by the <hi>Alkali</hi> of the Aſhes to promote the Fuſion: So Lime-ſtone, <hi>&amp;c.</hi>) What is the Contrivance of the Furnaces, and if they be all of one ſort or bigneſs, or differ<g ref="char:EOLhyphen"/>ing; what Tools are uſed in Smelting, and how contriv'd.</p>
+               <p n="64">LXIV. What Fewel they uſe, and how much is ſpent in a Day or Week, and what Returns they have in Metal, in a proportionate Time.</p>
+               <p n="65">LXV. Whether the Ore be melted in a Wind Furnace, made by the Fire's own Motion, or by Bellows; what their Dimenſions are, and what way u<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'d.</p>
+               <pb n="69" facs="tcp:153430:37"/>
+               <p n="66">LXVI. What way they take or let out the Me<g ref="char:EOLhyphen"/>tal that is in Fuſion, to caſt it into Bars, Sows, Pigs; and what Clay, Sand, or Mould they let it run or pour it through; and after what man<g ref="char:EOLhyphen"/>ner they refrigerate it.</p>
+               <p n="67">LXVII. Whether or not, to facilitate the Fuſion, they mix ſeveral Ores of the ſame ſort together, (as in ſome Places 'tis uſual to mix rich and poor Ore, and at <hi>Mendip</hi> they mix two or more of theſe differing kinds of Lead Ores, that they call Firm Ore, Steel Ore, Pot<g ref="char:EOLhyphen"/>tern Ore, <hi>&amp;c.</hi>)</p>
+               <p n="68">LXVIII. Whether or not, after 'tis once mel<g ref="char:EOLhyphen"/>ted, they melt it again, to make it more pure; and if ſo, with what Circumſtances they per<g ref="char:EOLhyphen"/>form it.</p>
+               <p n="69">LXIX. Whether they have Signs to know when the Fuſion is well or ill perform'd, and the Metal have obtain'd a Perfection requiſite in ſuch a Fuſion, and in ſuch a Furnace.</p>
+               <p n="70">LXX. Whether they obſerve any difference in the Goodneſs of the Metal that comes firſt, from that which comes laſt; and whether the Rule holds conſtantly, (for though they obſerve in the Tin Mines, that the beſt Metal comes firſt, yet an induſtrious Friend of mine informs me, that the beſt Metal comes laſt.)</p>
+               <pb n="70" facs="tcp:153430:38"/>
+               <p n="71">LXXI. Whether the produc'd Metal be all of the ſame Goodneſs; and if it be, how good it is in reference to the Metals of other Mines, or other Parts of the ſame Vein; and if it be not, what difference are between the produced Por<g ref="char:EOLhyphen"/>tions of Metal, and what diſparity that amounts to in the Price.</p>
+               <p n="72">LXXII. What are the ways of diſtinguiſhing them, and eſtimating their Goodneſs.</p>
+               <p n="73">LXXIII. Whether there be not elevated Flow<g ref="char:EOLhyphen"/>ers to the upper parts of the Chimney, and whether they are barely Excrementitious or Me<g ref="char:EOLhyphen"/>talline; (as in the <hi>Corniſh</hi> Tin Mines, after ſome Years they pull down the Thatched Houſes, in which the Ore has been melted, to get the Stuff that adheres to the inſides of the Roof, out of which they melt ſtore of excellent Tin.)</p>
+               <p n="74">LXXIV. Whether, when the Ores are brought to Fuſion, they have any Recrements, (as Iron Stone affords ſtore of a dark Glaſs or Slag, the like does Tin; and if it do, what theſe Recre<g ref="char:EOLhyphen"/>ments are, and how to be ſeparated from the baſer Metal)</p>
+               <p n="75">LXXV. Whether after the Metal has been melted, the remaining part of the Ore will in Tract of Time be impregnated with more Me<g ref="char:EOLhyphen"/>tal; (for this is affirm'd to me of the <hi>Corniſh</hi> Tin-Ore; and what remain'd after the Fuſion of the Iron Ore in the Foreſt of <hi>Dean,</hi> is ſo rich in Metal, that a Tenant of mine in <hi>Ireland,</hi>
+                  <pb n="71" facs="tcp:153430:38"/>though he had on the Land he held for me an Iron Mine, found it leſs profit to work it, than to ſend to the Foreſt of <hi>Dean</hi> for this already us'd Ore, which having lain for ſome Ages ſince it was thrown aſide, in great Heaps, expoſed to the Air, he affirm'd to yield a very great ſtore of Iron and very good; though I ſome<g ref="char:EOLhyphen"/>what doubt.</p>
+               <p n="76">LXXVI. Whether this be totally to be aſcrib'd to the Air, and length of Time, or to the leaving of Metal in the Slags in old Times, before great Furnaces were in uſe.)</p>
+               <p n="77">LXXVII. Whether the Air appears really to be cold in <hi>Summer,</hi> and hot in <hi>Winter,</hi> by more evident Truths than the Teſtimony of our Touch.</p>
+               <p n="78">LXXVIII. Whether they find the Stones and Ground actually hot, ſo that ſometimes they can hardly ſtand upon the Place, as <hi>Glauber</hi> ſays, and from whence that proceeds.</p>
+               <p n="79">LXXIX. Whether there be Mineral Jucies that harden into Stones or Metals, upon the Touch of the Air called <hi>Gur;</hi> of this <hi>Helmont</hi> relates an Obſervation.</p>
+               <p n="80">LXXX. What Laws, Conſtitutions and OEco<g ref="char:EOLhyphen"/>nomy is obſerv'd among the Miners.</p>
+               <pb n="72" facs="tcp:153430:39"/>
+               <p n="81">LXXXI. What way the Trees and their Leaves are affected by the Mineral Fumes and Juices, and if they be gilded or ſilver'd as along the River <hi>Meine</hi> in <hi>Germany</hi> is obſerv'd; and if theſe Trees be more ponderous than others; if they have any Metals or Metaline Concretes lodg'd in their Pores.</p>
+               <p n="82">LXXXII. Whether there be Waters and Springs obſerv'd to riſe near the Mines, and run their whole Courſe under the Ground, with<g ref="char:EOLhyphen"/>out ever appearing above it.</p>
+               <p n="83">LXXXIII. Whether Subterraneous Springs do riſe with any Wind, or determinate Change of Weather.</p>
+               <p n="84">LXXXIV. How much heavier the Atmo<g ref="char:EOLhyphen"/>ſphere is at the Bottom than the Top; and whe<g ref="char:EOLhyphen"/>ther Damps conſiderably increaſe the Weight of it.</p>
+               <p n="85">LXXXV. Whether they find any ſtrange Sub<g ref="char:EOLhyphen"/>ſtances in the Mines, as Veſſels, Anchors, Fiſhes inclos'd in Spar or Metal.</p>
+            </div>
+            <div type="queries">
+               <p>Having gone through what belongs to the Mi<g ref="char:EOLhyphen"/>neral Kingdom, in as full a Method as we could, the next Head of Enquiries ſhall be about the Vegetable Kingdom, which though more pro<g ref="char:EOLhyphen"/>per for one that has his Abode fix'd, may yet be acceptable and uſeful alſo to the curious Tra<g ref="char:EOLhyphen"/>veller.</p>
+               <pb n="73" facs="tcp:153430:39"/>
+               <p n="1">I. What Vegetables there are which, having the wrong end of them ſet down into the Ground, will yet grow, as 'tis ſaid Elders and Briars will.</p>
+               <p n="2">II. Whether the Branch of a Plant (as of a Vine or Bramble) being laid into the Ground, whilſt yet growing on the Tree, and there ta<g ref="char:EOLhyphen"/>king Root, being cut off from the Tree whilſt ſo growing, will ſhoot out forward and back<g ref="char:EOLhyphen"/>ward.</p>
+               <p n="3">III. In Tapping, Cutting or Boring of any Tree, whether the Juice that vents at it comes from above or below.</p>
+               <p n="4">IV. What part of the Juice aſcends or de<g ref="char:EOLhyphen"/>ſcends by the Bark; whether what ſo aſcends, aſcends by the outward or inward part of it.</p>
+               <p n="5">V. Whether if a Zone of about two or three Inches be cut off about the bottom of a Branch, that Branch will die or caſt its Leaves, or bleed out a Juice from the upper or lower part of the Bark ſo cut, or be apt to ſhoot out Leaves or Branches, or Knobs, either above or below that boring.</p>
+               <p n="6">VI. What the uſe of the Pith is; whether the Juice aſcend or deſcend by it; and what Effects will follow, if the Trunk be bor'd to the Pith, and a Peg droven hard into the Hole of the Pith, both above and below; this to be tried in the moſt pithy Plants.</p>
+               <pb n="74" facs="tcp:153430:40"/>
+               <p n="7">VII. Whether the Points or Ends of the Roots being cut off, will bleed as copiouſly as Branches of the Trunks do, when bor'd.</p>
+               <p n="8">VIII. What ſide of the Tree affords moſt Sap.</p>
+               <p n="9">IX. Of What Age Trees afford moſt Sap.</p>
+               <p n="10">X. What are the beſt Seaſons of the Air for taking the Sap of every kind of Tree in greateſt Quantity, and how long that Seaſon laſteth.</p>
+               <p n="11">XI. Whether the Sap comes more copiouſly at one Time of the Day or Night than at ano<g ref="char:EOLhyphen"/>ther.</p>
+               <p n="12">XII. Whether Trees afford any conſiderable Juice in the Fall.</p>
+               <p n="13">XIII. What Effect, Copiouſneſs, or Scarcity of Rain hath upon the Saps of Trees.</p>
+               <p n="14">XIV. Whether or no the Nature of a Tree may be changed by Applications of Juices or Liquors to the Roots, or other Parts.</p>
+               <p n="15">XV. Whether a Tree, whoſe Root is covered from Rain, and not watered, if the Branches of it be expoſed to the Air, will grow.</p>
+               <p n="16">XVI. Whether inoculated Roots of a Tree will grow.</p>
+               <pb n="75" facs="tcp:153430:40"/>
+               <p n="17">XVII. How ſhort the Arms of the Roots of a Tree may be cut, and the Tree ſtill grow.</p>
+               <p n="18">XVIII. How deep the ſeveral kinds of Trees are to be ſet in the Ground to grow.</p>
+               <p n="19">XIX. Whether or no, a Seed being planted either way, it will grow equally.</p>
+               <p n="20">XX. Whether the Stem of a Tree being ſet in the Earth, and the Root turn'd up into the Air, the Tree will grow, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div type="queries">
+               <pb n="76" facs="tcp:153430:41"/>
+               <head>Enquiries concerning the <g ref="char:V">Ʋ</g>ſe and Culture of the Kitchen-Garden and Winter-Greens.</head>
+               <p n="1">I.
+<table>
+                     <row>
+                        <cell>What</cell>
+                        <cell>
+                           <list>
+                              <item>Roots</item>
+                              <item>Firſt Shoots</item>
+                              <item>Sprouts</item>
+                              <item>Stalks</item>
+                              <item>Buds</item>
+                              <item>Flowers</item>
+                              <item>Fruits</item>
+                              <item>Kernels</item>
+                              <item>Seeds</item>
+                           </list>
+                        </cell>
+                        <cell>to</cell>
+                        <cell>
+                           <list>
+                              <item>Eat Raw</item>
+                              <item>Boil</item>
+                              <item>Roſte</item>
+                              <item>Bake</item>
+                              <item>Pickle</item>
+                              <item>Preſerve</item>
+                              <item>Candy</item>
+                              <item>Dry whole</item>
+                              <item>Dry to Powder, ſerving for Spice</item>
+                              <item>make Wine</item>
+                              <item>—Cyder</item>
+                              <item>—Perry</item>
+                              <item>—Ale and other va<g ref="char:EOLhyphen"/>rious Drinks</item>
+                              <item>—Vinegar &amp; Verjuice</item>
+                              <item>—Thick Juices like Honey</item>
+                              <item>—Concrete Juices like Sugar</item>
+                              <item>—Bread</item>
+                              <item>—Cakes, Puddings &amp; bak'd Meats.</item>
+                              <item>—Broths</item>
+                              <item>give pleaſant Colours to Meats and Drinks</item>
+                              <item>what Herbs are fit to make Sallads, and how to be order'd for that pur<g ref="char:EOLhyphen"/>poſe.</item>
+                           </list>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <pb n="77" facs="tcp:153430:41"/>
+               <p n="2">II. The beſt Seaſon to ſow every ſort of Seed.</p>
+               <p n="3">III. How often every ſort of Seed ought to be ſown for the Uſe of the Kitchen-Garden.</p>
+               <p n="4">IV. How the Earth is compounded and or<g ref="char:EOLhyphen"/>dered for ſeveral kinds of Seeds and Plants.</p>
+               <p n="5">V. What to be ſow'd on Cold Grounds.</p>
+               <p n="6">VI. What to be ſow'd on Hot Beds.</p>
+               <p n="7">VII. Several ways of making Hot Beds, and their Attendance.</p>
+               <p n="8">VIII. How and what to be tranſplanted either into Cold Ground, or into New Hot Beds, and how order'd after.</p>
+               <p n="9">IX. What Obſervations on the Sun, Moon and Weather, for Sowing, Planting and Tranſ<g ref="char:EOLhyphen"/>planting.</p>
+               <p n="10">X. How to water and ſhade Plants new plan<g ref="char:EOLhyphen"/>ted and Seeds ſowed.</p>
+               <p n="11">XI. What thrives beſt in the Sun.</p>
+               <p n="12">XII. What thrives beſt in the Shade.</p>
+               <p n="13">XIII. What and how ſuch as will not proſper in the Green-Houſe, may be covered and pre<g ref="char:EOLhyphen"/>ſerved abroad.</p>
+               <pb n="78" facs="tcp:153430:42"/>
+               <p n="14">XIV. The ſeveral Names of Worms, Ver<g ref="char:EOLhyphen"/>mine and Inſects that are noxious to the Gar<g ref="char:EOLhyphen"/>dens.</p>
+               <p n="15">XV. The Remedies.</p>
+               <p n="16">XVI. The beſt Form and Dimenſion of the Green-Houſe; as alſo of what to build and co<g ref="char:EOLhyphen"/>ver it.</p>
+               <p n="17">XVII. What to be houſed in Winter.</p>
+               <p n="18">XVIII. How to order the Pots or Tubs before they are uſed.</p>
+               <p n="19">XIX. When and in what Weather to open and cloſe the Green-Houſe.</p>
+               <p n="20">XX. What Obſervations at the firſt ſetting abroad of the Winter-Greens in the Spring.</p>
+               <p n="21">XXI. How to Prune and Dung the Winter-Greens.</p>
+               <p n="22">XXII. What may be increaſed by the Root.</p>
+               <p n="23">XXIII. What by Layers.</p>
+               <p n="24">XXIV. What by Slips or Cuttings.</p>
+               <p n="25">XXV. What grows beſt of Seeds that ſhed and ſow themſelves.</p>
+               <p n="26">XXVI. What to be Grafted and Inoculated.</p>
+               <pb n="79" facs="tcp:153430:42"/>
+               <p n="27">XXVII. The ſeveral ways of Ingrafting and Inoculating.</p>
+               <p n="28">XXVIII. How to alter the Shape, Smell, Taſte and Colour of Vegetables, by joining different Roots together.</p>
+               <p n="29">XXIX. How and what may be changed by Grafting, Joining or Inoculating Shoots or Buds on different Stocks or Cyons.</p>
+               <p n="30">XXX. How to compound ſeveral Liquors to Water, and feed Vegetables, whereby they may be much altered.</p>
+               <p n="31">XXXI. Of what Roots, Stalks, Barks, Leaves, Flowers, Fruits, Seeds or Downs, may be made either Cups, Boxes, Baskets, Mats, Callicoes, Cloths, (as Nettle Cloth) and the like, all which will be moſt uſeful for the Life of Man, from the Garden.</p>
+               <p n="32">XXXII. How to prune Vines, how many Joints to leave, and of what Age the Vine muſt be that is cut away.</p>
+               <p n="33">XXXIII. How to prune Standard-Trees.</p>
+               <p n="34">XXXIV. How to prune Wall-Trees, and with what to be beſt faſtned.</p>
+               <p n="35">XXXV. The Places from whence the beſt of the Vegetables, that are either Winter-Greens,
+<pb n="80" facs="tcp:153430:43"/>or fit for the Kitchen-Garden, may be had, and the Marks of their Goodneſs.</p>
+               <p n="36">XXXVI. How to diſcern good Seeds from bad.</p>
+               <p n="37">XXXVII. The Times of Gathering, and the Ways of Preſerving them.</p>
+            </div>
+            <div type="queries">
+               <p>Though we have by Journal-Books a fuller Ac<g ref="char:EOLhyphen"/>count given us of <hi>Turkey</hi> than of many other Countries, yet becauſe there are in theſe but imperfect Relations of many Things, which yet are needful to be known, it will not be amiſs to make known here the Account of theſe Things, that the Curious Traveller may inform himſelf of them, as he ſhall find conveniency for it.</p>
+               <p n="1">1. In what Part of <hi>Turky</hi> the <hi>Ruſma</hi> is to be found, and in what Quantity; whether the <hi>Turks</hi> employ it to any other Uſes beſides that of taking off the Hair; whether there be differing kinds of it; how it is uſed to take off Hair, and how to get ſtore of it.</p>
+               <p n="2">2. Whether the <hi>Turks</hi> do not only take <hi>Opium</hi> themſelves for Strength and Courage, but alſo give it to their Horſes, Camels and Dromeda<g ref="char:EOLhyphen"/>ries, for the ſame purpoſe, when they find them tired and faint in their Travelling; what is the greateſt Doſe any Men are known to have taken of Opium, and how prepared.</p>
+               <p n="3">3. What Effects are obſerved from their Uſe of <hi>Opium,</hi> as alſo of Coffee, Bathing, Shaving
+<pb n="81" facs="tcp:153430:43"/>their Heads, uſing Rice, and why they prefer that which grows not, unleſs watered, before Wheat, <hi>&amp;c.</hi>
+               </p>
+               <p n="4">4. How their <hi>Damaſco</hi> Steel is made; and,</p>
+               <p n="5">5. What is their way of Dreſſing Leather, which, though thin and ſupple, will hold out Water.</p>
+               <p n="6">6. What is the way they breed thoſe excellent Horſes they are ſo much famed for.</p>
+               <p n="7">7. Whether they be ſo skilful in poiſoning, as is ſaid, and how their Poiſons are curable.</p>
+               <p n="8">8. How the <hi>Armenians</hi> keep Meat freſh and ſweet ſo long as it is ſaid they do.</p>
+               <p n="9">9. What Arts or Trades they have worth learning.</p>
+               <p n="10">10. Whether there be ſuch a Tree about <hi>Da<g ref="char:EOLhyphen"/>maſcus</hi> called <hi>Mouſtac,</hi> which every Year, about the Month of <hi>December,</hi> is cut down cloſe by the Root, and within four or five Months ſhoots up again apace, bringing forth Leaves, Flowers and Fruit alſo, and bearing but one Apple, an excellent Fruit, at once.</p>
+               <p n="11">11. Whether at <hi>Reame,</hi> in the South Parts of <hi>Arabia Foelix,</hi> there be Grapes without any Grains; and whether the People of that Coun<g ref="char:EOLhyphen"/>try live, many of them, to an Hundred and twenty Years in good Health.</p>
+               <pb n="82" facs="tcp:153430:44"/>
+               <p n="12">12. Whether in <hi>Candia</hi> there be no poiſon<g ref="char:EOLhyphen"/>ous Creatures; and whether thoſe Serpents that are there are without Poiſon.</p>
+               <p n="13">13. Whether all Fruits, Herbs, Earths and Fountains are naturally ſaltiſh, in the Iſland of <hi>Cyprus;</hi> and whether thoſe Parts of this Iſle, which abound naturally in Cyprus-Trees, are more or leſs healthful than others.</p>
+               <p n="14">14. What ſtore of <hi>Amianthus</hi> there is in <hi>Cy<g ref="char:EOLhyphen"/>prus,</hi> and how they work it.</p>
+               <p n="15">15. Whether Mummies be found in the Sands of <hi>Arabia,</hi> that are the dried Fleſh of Men, bu<g ref="char:EOLhyphen"/>ried in thoſe Sandy Deſarts in Travelling; and how they differ in their Virtue from the embalm<g ref="char:EOLhyphen"/>ed ones.</p>
+               <p n="16">16. Whether the Parts about the City of <hi>Conſtantinople,</hi> or <hi>Aſia Minor,</hi> be as ſubject to Earthquakes now as they have been formerly; and whether the Eaſtern Winds do not plague the ſaid City with Miſts, and cauſe that Incon<g ref="char:EOLhyphen"/>ſtancy of Weather it is ſaid to be ſubject to.</p>
+               <p n="17">17. Whether the Earthquakes in <hi>Zant</hi> and <hi>Cephalonia</hi> be ſo frequent, as to happen now and then nine or ten times in a Month; and whe<g ref="char:EOLhyphen"/>ther theſe Iſles be not very Cavernous.</p>
+               <p n="18">18. What is the Heighth of Mount <hi>Cacaſus,</hi> its Poſition and Temper in ſeveral Parts, <hi>&amp;c.</hi>
+               </p>
+               <pb n="83" facs="tcp:153430:44"/>
+               <p n="19">19. With what Declivity the Water runs out of the <hi>Euxian Sea</hi> into the <hi>Propontis,</hi> with what Depth; and if the Main Tides and Ed<g ref="char:EOLhyphen"/>dies, ſo famous by the Name of <hi>Euripi,</hi> have any certain Period.</p>
+               <p n="20">20. If in the <hi>Euxine Sea</hi> there can be found any Sign of the <hi>Caſpian Sea</hi>'s emptying it ſelf into it by a Paſſage under Ground; if there be any different Colour or Temper, as to Heat or Cold, or any great Emotion in the Water, that may give Light to it.</p>
+               <p n="21">21. By what Inland Paſſages they go to <hi>China,</hi> there being now a Paſſage for Caravans through<g ref="char:EOLhyphen"/>out thoſe Places, that would formerly admit of no Correſpondence, by reaſon of the Barbariſm of the Inhabitants.</p>
+               <p n="22">22. Whether in the Aqueducts they make, they line the Inſide with as good Plaiſter as the Ancients did, and how theirs is made.</p>
+               <p n="23">23. To enquire after the excellent Works of Antiquity, with which that Country is full, and which by the Ignorant are not thought worth Notice or Preſervation; and particularly what is the Structure and Bigneſs of the Aqueducts made in ſeveral Places about <hi>Conſtantinople</hi> by <hi>So<g ref="char:EOLhyphen"/>lyman</hi> the Magnificent.</p>
+               <p n="24">24. To enquire whether the Relations of a whole City's being turned into Stone be true; and if not, what gave the firſt Riſe to it; and
+<pb n="84" facs="tcp:153430:45"/>whether it lie ſo near the Sea that thoſe Bodies ſo metamorphoſed may be eaſily brought into <hi>Europe.</hi> Here I beg the Reader's Leave to digreſs a little, and give him the Information I had of it from one who was upon the Place, did ſee this ſtrange Metamorphoſis, and had an Account of it from one who lived near to it, which I the rather adventure to do, becauſe I have had good Proofs of his Veracity in other Relations, and alſo becauſe I had the ſame confirm'd to me in great meaſure by a Gentleman who had been long a Chaplain to the Factory at <hi>Smyrna,</hi> who aſſured me, That there's no doubt of it. 'Tis this: Being obliged to go with the Army ſent by the Baſſa of <hi>Tripoly</hi> to reduce a City that had rebelled againſt him, in the way, he and ſome others, after Leave got from their Commander, did turn aſide to ſee this ſo ſtrange Metamorpho<g ref="char:EOLhyphen"/>fis; at his firſt coming into the Place he ſaw a Sheep lying upon her Belly, as if it were chew<g ref="char:EOLhyphen"/>ing the Cud, whoſe Head he broke off from her Neck with a Stone, and in the Gullet he could perceive ſome remainder of the chew'd Graſs all petrified, which he took up, and ſold afterwards to one of his Fellow-Slaves, who, having ſent it to the Pope, had his Ranſome returned for it. A little farther they ſaw a Woman ſitting on her Knees, with her Hands in a Trough, as if ſhe were kneading Dough, her Mantle that was claſp'd about her Neck being caſt backward, and all turned to Stone, ſo hard, that they could lift her and the Trough in which the Hands were, without parting them or breaking any thing. When he asked a Prieſt that was ſent from the City to treat with the Commander, what way
+<pb n="85" facs="tcp:153430:45"/>this did happen; he anſwered him, That all the Inhabitants of that Place were <hi>Sodomites,</hi> and that God rained down Fire and Brimſtone from Heaven upon them; upon the which they were all turned to Stones: And for Proof of this, he deſired him to dig in the Sand, with his Hand, a Foot deep, which he found like blue Aſhes; which, ſaid the Prieſts, were the Re<g ref="char:EOLhyphen"/>mainders of that Fire.</p>
+            </div>
+            <div type="queries">
+               <p>But to return to our Subject, the next En<g ref="char:EOLhyphen"/>quiries ſhall be for <hi>Egypt.</hi> And,</p>
+               <p n="1">1. Whether it rain at any time; and if ſo, at what time of the Year; and what Influences that Rain hath upon the Air, as to the making it Wholeſome or Peſtilential, or otherwiſe Un<g ref="char:EOLhyphen"/>wholeſome.</p>
+               <p n="2">2. To conſider the Nitre that is made there, to try what Affinity there is between the Nitre we have and theirs, whether it diſcover an Al<g ref="char:EOLhyphen"/>kaly Nature by its Colluctation with Acids, as ſome report, and whether after diſſolving in Water, Filtration and Evaporation, it give Chryſtals like to Nitre.</p>
+               <p n="3">3. Whether the Earth of <hi>Egypt,</hi> adjoining to the River <hi>Nilus,</hi> preſerved and weigh'd, daily keeps the ſame Weight, till the ſeventeenth of <hi>June,</hi> and then grows daily heavier, with the Increaſe of the River.</p>
+               <pb n="86" facs="tcp:153430:46"/>
+               <p n="4">4. Whether, if the Plague be never ſo great before, yet on the firſt Day of the <hi>Nile</hi>'s In<g ref="char:EOLhyphen"/>creaſe, it not only not increaſeth, but abſolutely ceaſeth, not one dying of it after; and whe<g ref="char:EOLhyphen"/>ther this be juſtly attributed to the ſwelling of the <hi>Nile,</hi> or the cool Winds that happen about that Time, and come from the diſſolving of the Snows on the <hi>Riphaean</hi> Hills behind <hi>Greece,</hi> which being impregnated with the Nitrous Particles of the Snow, doth both fan the Air of <hi>Egypt,</hi> and communicate to it an Anti-peſtilential Quality; which I the rather am inclin'd to believe, be<g ref="char:EOLhyphen"/>cauſe Judicious Men do attribute in part the ſwelling of the <hi>Nile</hi> to theſe <hi>Eteſiae,</hi> that blow<g ref="char:EOLhyphen"/>ing hard on the Mouth of the <hi>Nile,</hi> force its Waters back again into its Channel, which meeting with the Land-flood, that is at the ſame time occaſion'd by the great Rains hap<g ref="char:EOLhyphen"/>pening at that Time on the Mountains of the <hi>Moon,</hi> do make the River overflow its Banks.</p>
+               <p n="5">5. To enquire particularly into the manner of hatching Eggs in <hi>Egypt;</hi> how the Camels Dung is prepar'd, wherein they are laid; how often the Eggs are turned; how covered; whether they hatch in one and twenty Days, as they do with us under a Hen; whether the Chickens be as perfect as ours; if imperfect, whether that may not happen to them with rough handling, while they are removed, being very tender, out of the Place where they are hatched; to take the Deſign of the manner, how by the Pipes the Heat is conveyed to ſeveral Rooms; how they <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reat them betwixt the time of their Hatching
+<pb n="87" facs="tcp:153430:46"/>and Taking away by the Owners; whether they do not alſo uſe to hatch Eggs under Hens.</p>
+               <p n="6">6. To enquire if the Yellow Amber that is ſold in <hi>Egypt</hi> in great quantity, be the Gum of a Tree growing in <hi>Egypt,</hi> or <hi>Ethiopia,</hi> as <hi>Bello<g ref="char:EOLhyphen"/>nius,</hi> after <hi>Diodorus Siculus,</hi> affirms; and whe<g ref="char:EOLhyphen"/>ther, beſides ſeveral Animals, that are found in<g ref="char:EOLhyphen"/>cloſed in that Amber, there is frequently found ſome part of the Bark of a Tree ſticking to it.</p>
+               <p n="7">7. To enquire of a certain Tree, growing not far from <hi>Cairo,</hi> which bears a Fruit ſtuffed with Wool, that is finer than Silk, of which the <hi>Arabs</hi> make Linnen that is ſofter than Silk, and whiter than Cotton.</p>
+               <p n="8">8. Whether Crocodiles that are found to be ſometimes thirty foot long, are hatched of an Egg no bigger than a Turkey's.</p>
+               <p n="9">9. Whether the Ichneumon, or Egyptian Water-Rat, can kill a Crocodile, by skipping into his Mouth, and gnawing his way out, as Old Writers affirm.</p>
+               <p n="10">10. Whether it be true, That the <hi>Arabs</hi> can charm the Crocodiles, or whether there be on the <hi>Nile</hi>'s ſide any <hi>Taliſmans,</hi> or Conſtellated Figures, beyond which the Crocodiles cannot paſs, as ſome would make us believe.</p>
+               <p n="11">11. To enquire at <hi>Cairo</hi> for ſeveral Druggs, which are common there, and much in uſe, yet not brought into <hi>Europe,</hi> as <hi>Acacia, Calamus
+<pb n="88" facs="tcp:153430:47"/>Odoratus, Amomum, Coſtus, Ben Album,</hi> and di<g ref="char:EOLhyphen"/>vers ſuch others.</p>
+               <p n="12">12. Whether the Female Palm-Tree be not Fruitful, unleſs ſhe be planted by the Male, as ſome would bear us in Hand.</p>
+               <p n="13">13. To enquire whether the Appearance of Legs and Arms of Men, related to ſtand out of the Ground, to a great Number, at five Miles from <hi>Cairo,</hi> on <hi>Good-Friday,</hi> do ſtill continue, and how that Impoſture is perform'd.</p>
+               <p n="14">14. Whether Children born in the Eighth Month do uſually live there, contrary to what is believed to happen elſewhere.</p>
+               <p n="15">15. To take an Account of the Wooden Locks there, which are ſaid to be made with as great Art there, as our Locks here.</p>
+               <p n="16">16. To obſerve the Courſe of the Waters both in the <hi>Mediterranean</hi> and the <hi>Red Sea.</hi>
+               </p>
+            </div>
+            <div type="queries">
+               <pb n="89" facs="tcp:153430:47"/>
+               <head>Enquiries for <hi>Guiney.</hi>
+               </head>
+               <p n="1">1. Whether the River <hi>Niger</hi> overflows the Country yearly, like <hi>Nilus.</hi>
+               </p>
+               <p n="2">2. Whether Rain, when it falls, be often very hot; whether it rots the Cloaths, if not pre<g ref="char:EOLhyphen"/>ſently dried, and breeds Worms in them.</p>
+               <p n="3">3. Whether the Gold there differs in the Fine<g ref="char:EOLhyphen"/>neſs, and that which lies uppermoſt in the Mine be the fineſt.</p>
+               <p n="4">4. Whether the Palm yields Wine, Oil, Vine<g ref="char:EOLhyphen"/>gar, Soap, and Bread; and whether out of the Leaves they pick Threads, making thereof very curious Works.</p>
+               <p n="5">5. Whether they have beſides their Palm<g ref="char:EOLhyphen"/>wine, a Drink made of Grain, like our Ale; what Grain that is, and how prepared.</p>
+               <p n="6">6. Whether ſome People on the River <hi>Gam<g ref="char:EOLhyphen"/>bra</hi> be only Tawny, as others very Black.</p>
+               <p n="7">7. Whether the Negroes have ſuch ſharp Sights, that they diſcover a Ship farther off at Sea than an <hi>European</hi> can.</p>
+               <p n="8">8. What Reaſon there is to conclude, That the Common People being accuſtomed to drink Water, is the Cauſe that they are troubled with
+<pb n="90" facs="tcp:153430:48"/>Worms in their Bodies, very painful to them, and difficult to get out.</p>
+            </div>
+            <div type="queries">
+               <head>Enquiries for <hi>Poland,</hi> and the adjacent Country, eſpecially ſuch as are more Nor<g ref="char:EOLhyphen"/>therly.</head>
+               <p n="1">1. What is the way of making Pot-aſhes in <hi>Poland.</hi>
+               </p>
+               <p n="2">2. What is to be obſerved about Succinum or Amber; whether it be an Exudation of the Sea; whether it be ſoft when 'tis firſt caſt on Shore; at what Seaſon of the Year, and in what man<g ref="char:EOLhyphen"/>ner 'tis taken up, <hi>&amp;c.</hi>
+               </p>
+               <p n="3">3. What is to be obſerved in the digging of <hi>Sal Gemmae</hi> in <hi>Poland;</hi> and what is the Depth of the Mines ſtored with the Salt; and what their Diſtance from the Sea.</p>
+               <p n="4">4. What Truth there is in that Relation, of Swallows being found under Waters congeal'd in Winter, and reviving, if they be fiſh'd and held to the Fire.</p>
+               <p n="5">5. Whether there be in the <hi>Bodnick Bay</hi> a Whirl-pool, as is related to be in the Sea of <hi>Norway,</hi> which is commonly called the <hi>Meal<g ref="char:EOLhyphen"/>ſtroom;</hi> and whether ther be any Signs that re<g ref="char:EOLhyphen"/>late the Communication of theſe Gulphs with the Subterraneous Paſſages, as <hi>Kircher</hi> ſays in his <hi>Mundus Subter.</hi> T. 1. p. 146.</p>
+               <pb n="91" facs="tcp:153430:48"/>
+               <p n="6">6. To what Depth the Cold in theſe Parts pierces the Earth and Water.</p>
+               <p n="7">7. Whether their Watches go ſlower by the intenſe Cold.</p>
+               <p n="8">8. Whether their Oil, in great Colds, is turned into true, that is to ſay, hard and brit<g ref="char:EOLhyphen"/>tle Ice.</p>
+               <p n="9">9. Whether they can freeze there a ſtrong Brine of Bay-Salt, a ſtrong Solution of <hi>Sal Gemmae,</hi> or Soot, or a ſtrong Solution of Salt of Tartar, or Sugar of Lead.</p>
+               <p n="10">10. Whether they can congeal meer Blood, all the ſerous Part thereof being ſevered. <hi>Item, Canary</hi> Wine, Solutions of all Salts, and ſtrong Solutions of Metals.</p>
+               <p n="11">11. Whether an intenſe and laſting Froſt makes any Alteration in Quickſilver, expoſed very ſhallow, in a flat Veſſel.</p>
+               <p n="12">12. Whether the Purgative Virtue of Cathar<g ref="char:EOLhyphen"/>ticks be increaſed or diminiſhed, or even total<g ref="char:EOLhyphen"/>ly deſtroyed by a ſtrong continual Cold.</p>
+               <p n="13">13. Whether Harts-Horns thawed will give the ſame Quantity of Spirits, by the ſame Me<g ref="char:EOLhyphen"/>thod of Diſtilling which they uſe to yield, when not frozen.</p>
+               <pb n="92" facs="tcp:153430:49"/>
+               <p n="14">14. What Cold operates in the Fermentations of Liquors.</p>
+               <p n="15">15. Whether Birds and wild Beaſts grow white there in Winter-time, and recover their Native Colour in Summer.</p>
+               <p n="16">16. Whether Colours may be concentred by Cold, <hi>e. g.</hi> a ſtrong Decoction of Cochineal in a fit Glaſs.</p>
+               <p n="17">17. Whether the Electrical Virtue of Amber, and the Attractive Force of the Magnet be chan<g ref="char:EOLhyphen"/>ged by a vehement Cold.</p>
+               <p n="28">28. Whether Pieces of Iron and Steel, even thick ones, be made brittle by intenſe Froſts; and therefore Smiths are obliged, for Prevention, to give their Iron and Steel Tools a ſofter Tem<g ref="char:EOLhyphen"/>per.</p>
+               <p n="19">19. Whether accurate Obſervations evince, That all Fiſhes die in frozen Waters, if the Ice be not broken; where it is diligently to be en<g ref="char:EOLhyphen"/>quired into, Whether the Cold it ſelf, or the want of Changing or Ventilating the Water, or the Privation of Air, be the Cauſe of the Death of Fiſhes.</p>
+               <pb n="93" facs="tcp:153430:49"/>
+               <p n="20">20. Whether any skilful Anatomiſt has en<g ref="char:EOLhyphen"/>quired, by Freezing to Death ſome Animals, (as Rabbets, Pullets, Dogs, Cats, <hi>&amp;c.</hi>) after what manner it is that intenſe Cold kills Men; whether they have found Ice in the inward Parts, as the Brain and Heart, and in the great<g ref="char:EOLhyphen"/>er Veſſels.</p>
+            </div>
+            <div type="queries">
+               <pb n="94" facs="tcp:153430:50"/>
+               <head>Enquiries into <hi>Hungary</hi> and <hi>Tran<g ref="char:EOLhyphen"/>ſilvania.</hi>
+               </head>
+               <p n="1">1. What is obſervable in <hi>Hungary, Tranſil<g ref="char:EOLhyphen"/>vania,</hi> and the neigh bouring Parts, as to Mi<g ref="char:EOLhyphen"/>nerals, Springs, Warm Bath, Earths, Quarries, Metals, <hi>&amp;c.</hi>
+               </p>
+               <p n="2">2. Particularly, to enquire into the ſeveral ſorts of Antimony, or Antimony Ore, to be found in <hi>Hungary,</hi> and to inform us of the ſe<g ref="char:EOLhyphen"/>veral Places whence they are digged, to the End they may be ſent for.</p>
+               <p n="3">3. To enquire where the beſt <hi>Hungarian</hi> Vi<g ref="char:EOLhyphen"/>triol is to be found, and the <hi>Cinnabaris Nativa.</hi>
+               </p>
+               <p n="4">4. To give us a right Account of the right Gold and Silver Earth-Ore, ſaid to be found at <hi>Cranach</hi> in <hi>Hungary;</hi> whence the Gold is called <hi>Cranach Gold,</hi> firſt lighted upon by the Care of the Emperor <hi>Rudolphus,</hi> and chimically wrought by his Order and Inſpection.</p>
+               <p n="5">5. To enquire, and ſend over ſome of that kind of Vitriol, which by credible Perſons is affirmed to be found Cryſtallized in <hi>Tranſilva<g ref="char:EOLhyphen"/>nia;</hi> as alſo after the Vitriol, ſaid to yield Gold.</p>
+               <p n="6">6. To inform us of the Salt-Pits in <hi>Tranſil<g ref="char:EOLhyphen"/>vania,</hi> ſaid to yield two ſorts of perfect Salt,
+<pb n="95" facs="tcp:153430:50"/>the one being a <hi>Sal Gemmae,</hi> the other a common Table-Salt; to obſerve how deep theſe Salt-Mines lie from the Surface of the Ground; how deep they are digged hitherto, and what Damps are met with in them.</p>
+               <p n="7">7. To enquire after the Veins of Gold and Quickſilver at <hi>Cremnitz</hi> in <hi>Hungary;</hi> and the Vein of Silver at <hi>Schemnitz</hi> in the ſame King<g ref="char:EOLhyphen"/>dom.</p>
+               <p n="8">8. To enquire whether the Waters of the <hi>Thermae</hi> that paſs by <hi>Schemnitz,</hi> depoſe a certain Sediment, which in time turns into a yellow Stone.</p>
+               <p n="9">9. Whether in the Mines of Gold, Silver, Copper, Iron, Lead in <hi>Hungary,</hi> there be ge<g ref="char:EOLhyphen"/>nerally found Quick-ſilver and Sulphur.</p>
+               <p n="10">10. Whether it be true, That in the Copper-Mines of the Place called <hi>Herren-Ground</hi> in <hi>Hun<g ref="char:EOLhyphen"/>gary,</hi> there be found no Quickſilver at all.</p>
+               <p n="11">11. Whether it be true, That in ſome Parts of the <hi>
+                     <g ref="char:V">Ʋ</g>pper-Hungary</hi> the Ores of Copper, Iron and Lead, be ſometimes ſo commixed, that there is often found in the upper of the Concrete Mat<g ref="char:EOLhyphen"/>ter of Iron, in the midſt Matter of Copper, and in the lowermoſt Lead; and that in other Parts of the Country, Copperiſh Fluors are mixed with Leaden ones.</p>
+               <p n="12">12. Whether it be true what <hi>Athanaſius Kir<g ref="char:EOLhyphen"/>cher</hi> writes from Relation, That the Ductus of
+<pb n="96" facs="tcp:153430:51"/>Metals do ſometimes run North and South, and ſometimes croſs-ways.</p>
+               <p n="13">13. Whether it is true what <hi>Busbequius</hi> re<g ref="char:EOLhyphen"/>ports, Of a River in <hi>Hungary,</hi> whoſe Water is ſo hot, and yet ſo full of Fiſh, that he ſaith one would expect that all the Fiſh drawn thence would come out boil'd.</p>
+               <p n="14">14. Whether there be Springs about <hi>Buda,</hi> or <hi>Alba Regalis,</hi> that riſe at the bottom of the River, ſo hot, that thoſe who go to bathe, dare not put their Feet ſo low as the Sand, for fear of having them parboil'd.</p>
+               <p n="15">15. Whether there be in <hi>Hungary</hi> an <hi>Avernus,</hi> that exhaleth always ſuch poiſonous Steams, that Birds flying over it do oftentime fall down, ei<g ref="char:EOLhyphen"/>ther ſtupified or quite dead; what are the Parti<g ref="char:EOLhyphen"/>culars of this, as to Taſte, Smell, Colour, Heat or Cold; whether any Waters run into it, and what Minerals are found near about it, to which theſe Qualities can be moſtly attributed.</p>
+               <p n="16">16. Whether the Iron that is ſaid to be turned into Copper by the Vitriolate Springs at <hi>Cremnitz</hi> or <hi>Schmolnitz</hi> in <hi>Hungary,</hi> do, after that Tranſ<g ref="char:EOLhyphen"/>mutation, or Precipitation, contain a pretty deal of Gold.</p>
+               <p n="17">17. Whether the Depth of the Gold-Mines of <hi>Hungary</hi> be Two thouſand four hundred Feet.</p>
+               <pb n="97" facs="tcp:153430:51"/>
+               <p n="18">18. What Quantity of Gold is got out of an hundred weight of Ore, and whether it be got alone, or mixed with other Metals in the Ore.</p>
+               <p n="19">19. Whether they find Trees, or any other Salt, in the ſolid Salt of their Salt-Mins.</p>
+               <p n="20">20. Whether there be a great Lake in <hi>Mora<g ref="char:EOLhyphen"/>via,</hi> whence the Waters at a certain Time of the Year are all drawn away, by great Holes in the middle of it, leading through ſubterraneous Paſſes, and that ſo ſuddenly, that the Fiſh are left on the Ground, which afterward becomes good Paſture for another part of the Year, the Waters then returning by the ſame Paſſages they went out, and that with ſo much Force that it riſes like a Jet of Water.</p>
+               <p n="21">21. Whether it is true, That in ſome Parts of <hi>Hungary,</hi> near the Gold Mines, the Leaves of their Trees have their lower Superficies, if not their upper alſo, gilded over with yellowiſh Ex<g ref="char:EOLhyphen"/>halations.</p>
+               <p n="22">22. What is the way ſaid to be uſed in <hi>Hun<g ref="char:EOLhyphen"/>gary</hi> and <hi>Auſtria,</hi> of extracting the Perfect Me<g ref="char:EOLhyphen"/>tals out of their Minera's without Lead, per<g ref="char:EOLhyphen"/>formed by caſting a Powder upon the Minera, which makes a quick and advantagious Separa<g ref="char:EOLhyphen"/>tion, Sulphur being ſuppoſed to be an Ingre<g ref="char:EOLhyphen"/>dient of it.</p>
+            </div>
+            <div type="queries">
+               <pb n="98" facs="tcp:153430:52"/>
+               <head>Enquiries for <hi>Suratte,</hi> &amp;c.</head>
+               <p n="1">1. Whether it be true, that Diamonds and other Precious Stones, do grow again after three Years, in the ſame Places where they have been digged out.</p>
+               <p n="2">2. Whether the Quarries of Stone near <hi>Fet<g ref="char:EOLhyphen"/>tipore,</hi> not far from <hi>Agra,</hi> in the Mogul's Do<g ref="char:EOLhyphen"/>minions, may be cleft like Logs, and ſawn like Planks to ciel Chambers and cover Houſes there<g ref="char:EOLhyphen"/>with; likewiſe whether about <hi>Sadrapatan,</hi> on the Coaſt of <hi>Cormandel,</hi> there be a Stone of the like nature, ſo as ſetting a Wedge upon it, one may cleave it with a Mallet, as thick or as thin as one pleaſeth; and whether it be of the Na<g ref="char:EOLhyphen"/>ture of our Fire-ſtone, that is prepared by the Stone-cutters for Ovens.</p>
+               <p n="3">3. Whether upon the ſame Coaſt of <hi>Corman<g ref="char:EOLhyphen"/>del,</hi> about <hi>Toutoucourin,</hi> and that of <hi>Ceylan</hi> at <hi>Manar</hi> and <hi>Jafanapatan,</hi> they fiſh Pearls as good as thoſe about <hi>Ormus;</hi> whether thoſe Pearls are the better, the deeper they lie; what is the greateſt depth they are known to have been ta<g ref="char:EOLhyphen"/>ken at; and whether it be true, that ſome of the Natives there can ſtay under Water half an Hour without any Art.</p>
+               <p n="4">4. Whether the Iron in <hi>Pegu</hi> and <hi>Japan</hi> be far better than ours; and if ſo, what is to be
+<pb n="99" facs="tcp:153430:52"/>obſerv'd in Melting, Forging and Tempering of it.</p>
+               <p n="5">5. Whether in <hi>Sumatra</hi> there be a Fountain running a very Sanative Oil; and whether the Ignivomous Mountain in the ſame Country do burn continually, and caſt out Stones ſo eaten by the Fire that they ſwim.</p>
+               <p n="6">6. What is the Opinion of the more Inquiſi<g ref="char:EOLhyphen"/>tive Men in theſe Parts of <hi>Ambergris,</hi> and whe<g ref="char:EOLhyphen"/>ther the greateſt Quantities of it are found about the Iſle <hi>Mauritius.</hi>
+               </p>
+               <p n="7">7. Whether it be Winter on the Eaſt-ſide of the Mountain <hi>Gates,</hi> which comes from the North Cape <hi>Comorin,</hi> whilſt it is Summer on the Weſt-ſide, and ſo <hi>vice verſa.</hi>
+               </p>
+               <p n="8">8. Whether it be true, That upon the Coaſt of <hi>Coromandel,</hi> ſixteen Degrees Northern Lati<g ref="char:EOLhyphen"/>titude, between <hi>Peleacate</hi> and <hi>Maſelupatan,</hi> fifty Leagues in length, the hot Winds blowing from the Landward, from eight in the Morning till four in the Afternoon, with ſuch a ſuffocating Heat, that the Inhabitants are not able to endure it, without extraordinary Helps and Refreſh<g ref="char:EOLhyphen"/>ment: Every one, for his Proviſion of Drink, daily hangs his Bottle, made of common Pot-Earth, and filled with Well-water, or other po<g ref="char:EOLhyphen"/>table Liquor, upon ſome Poſt, Tree or Wall, in Places where the Sun and Wind are moſt pier<g ref="char:EOLhyphen"/>cing, leaving it all the Day long there in the ſcorching Heat; and then taking it up about four a Clock in the Evening, the Drink is more
+<pb n="100" facs="tcp:153430:53"/>cool than any depth of Cellaridge can make it: And whether, on the contrary, the Bottles be<g ref="char:EOLhyphen"/>ing ſuffered to continue in the Air, as before; the cool Sea-Gales, which come in after the ſaid Hour, and continue all Night, till eight in the Morning, to the Refreſhment of all Creatures, the Liquors grow hot and unfit for Drink.</p>
+               <p n="9">9. Whether the Tide, near <hi>Mindana,</hi> going from the <hi>Molucca's</hi> to the <hi>Philippina's,</hi> are ſo ſwift, that neither contrary Winds nor Anchors can ſave a Ship from being carried away by it; and that it riſes about three or four Feet; and whether the like be obſerv'd in the Bay of <hi>Cam<g ref="char:EOLhyphen"/>baia,</hi> and in that between <hi>Martagan</hi> and <hi>Pegu:</hi> And particularly, whether in the ſaid Bays the Tides come in with that Impetuoſity and Swift<g ref="char:EOLhyphen"/>neſs about the Quarters of the Moon, that the Watchmen from high Towers muſt give Warn<g ref="char:EOLhyphen"/>ing to the People to retire; and that a Horſe, in his ſwifteſt Courſe, when ſuch a Tide comes upon it, as <hi>Iſaac Voſſius</hi> obſerves, <hi>lib. de motu Marium &amp; Ventorum,</hi> c. 15. And what other Particulars are obſervable in all theſe Coaſts about the Tides.</p>
+               <p n="10">10. Whether there be any Diſcoveries newer than the neweſt Painted Maps of the Parts of the World North-Eaſt of <hi>Japan;</hi> and whether <hi>Japan</hi> be truly an Iſland, or no.</p>
+               <p n="11">11. What is the true way of Making and Colouring <hi>China</hi> Diſhes, and how in <hi>China</hi> and <hi>Japan</hi> they make the Black Varniſh.</p>
+               <pb n="101" facs="tcp:153430:53"/>
+               <p n="12">12. With what Materials, and how they paint on Cloth, commonly called <hi>Pintados,</hi> and likewiſe upon Canvas, <hi>&amp;c.</hi>
+               </p>
+               <p n="13">13. Whether <hi>Lignum Aloes</hi> be the Wood or Root of a Tree; in what Country it is found; and how to know the beſt of the kind.</p>
+               <p n="14">14. Whether the beſt Tea be that which comes forth at the firſt of the Spring, and are the Top-Leaves; in what manner 'tis dry'd, and whether the too haſting drying thereof hurts it.</p>
+               <p n="15">15. Whether there grows a Wood in <hi>Java,</hi> that naturally ſmells like Humane Excrements; and if ſo, what kind of Ground it grows in.</p>
+               <p n="16">16. Whether in the <hi>Malacca Iſlands</hi> there be a Red Wood, which burns, ſparkles, and flames, without being conſumed, yet may be reduced to Powder, by rubbing between ones Fingers.</p>
+               <p n="17">17. Whether near the Fort of <hi>Ternate</hi> there be a Plant called by the Inhabitants <hi>Catopa,</hi> whence fall little Leaves, which are turned in<g ref="char:EOLhyphen"/>to Butterflies.</p>
+               <p n="18">18. Whether in <hi>Pegu</hi> and other Places they uſe a Poiſon that kills by ſmelling, and yet the poiſonous Smell is hardly perceived.</p>
+               <pb n="102" facs="tcp:153430:54"/>
+               <p n="19">19. Whether it be true, That the only Anti<g ref="char:EOLhyphen"/>dote, hitherto known, againſt the Famous and Fatal <hi>Macaſſar</hi> Poiſon, is Humane Ordure taken inwardly; and of what Subſtance that Poiſon is made of.</p>
+               <p n="20">20. Whether there be ſuch a Vegetable in <hi>Java,</hi> called <hi>Mangas Bravas,</hi> that is ſo poiſon<g ref="char:EOLhyphen"/>ous, that it kills preſently, and for which no Remedy hath been yet found.</p>
+               <p n="21">21. Where the beſt <hi>Calumba</hi> Wood, or <hi>Palo d' Aquila;</hi> whether the <hi>Palo d' Aquila</hi> be much in<g ref="char:EOLhyphen"/>ferior to <hi>Calamba,</hi> and how they are diſtin<g ref="char:EOLhyphen"/>guiſh'd; whether the latter be the Pith of the former; whence the beſt ſort comes; whether it be ſtored with a Rich and Gordial Balm, and that be the Cauſe of its great Rate, being much uſed in the Decay of Spirits, and the Lameneſs and Impotency of Nerves.</p>
+               <p n="22">22. Whether they draw an Oil, reſembling Oil of Camphire, from the Roots of the Cinna<g ref="char:EOLhyphen"/>mon-Tree, and how they draw it.</p>
+               <p n="23">23. Whether the Camphire of <hi>Borneo</hi> be not the Exudation or Gum of a Tree.</p>
+               <p n="24">24. Whether the <hi>Indians</hi> can ſo prepare that ſtupifying Herb, called <hi>Dutroa</hi> or <hi>Datura,</hi> that they make it lie ſeveral Days, Months and Years, according as they deſign it, in a Man's Body, without doing him any Hurt, and at the end kill him, without miſſing an Hour's time.</p>
+               <pb n="103" facs="tcp:153430:54"/>
+               <p n="25">25. Whether the <hi>Betele</hi> hath ſuch a Contrari<g ref="char:EOLhyphen"/>ety to the <hi>Durion,</hi> that a few Leaves of that, put to a whole Shopful of <hi>Durions,</hi> will make them all rot ſuddenly; and whether thoſe that have ſurfeited on <hi>Durions,</hi> and thereby over<g ref="char:EOLhyphen"/>hearted themſelves, do, by laying a Leaf or two of <hi>Betele</hi> upon their Breaſts or Stomachs, immediately cure the Inflammations, and Reco<g ref="char:EOLhyphen"/>ver.</p>
+               <p n="26">26. Whether the <hi>Papayat,</hi> which bear Fruit like a Melon, do not bear unleſs Male and Fe<g ref="char:EOLhyphen"/>male (as the Vulgar diſtinguiſhes them) ſtand together.</p>
+               <p n="27">27. Whether there be two ſorts of Trees cal<g ref="char:EOLhyphen"/>led <hi>Arbor Triſte,</hi> one by the Name of <hi>Triſte di Die,</hi> the other <hi>Triſte die Notte,</hi> whereof the for<g ref="char:EOLhyphen"/>mer ſheds his Flowers at the Riſing, the other at the Setting of the Sun; and whether the diſtil<g ref="char:EOLhyphen"/>led Water thereof (called <hi>Aqua di Mogli</hi> by the <hi>Portugals</hi>) may not be tranſported into theſe Parts.</p>
+               <p n="28">28. Whether one of theſe Trees, called <hi>Ar<g ref="char:EOLhyphen"/>bre de Rays,</hi> propagates it ſelf into a whole Fo<g ref="char:EOLhyphen"/>reſt, by ſhouting up and letting fall its Branches into the Ground, that ſpring up again, and ſo on; and whether there be any ſingle ones of theſe Trees, that are above fifty Feet in Diame<g ref="char:EOLhyphen"/>ter, as ſome affirm.</p>
+               <p n="29">29. What Particulars are obſervable in other Plants of thoſe Parts.</p>
+               <pb n="104" facs="tcp:153430:55"/>
+               <p n="30">30. Whether thoſe Shel-fiſhes that are in thoſe Parts plump and in Seaſon at the Full Moon, and lean and out of Seaſon at the New, are found to have contrary Conſtitutions in the <hi>Eaſt-Indies.</hi>
+               </p>
+               <p n="31">31. Whether the Animal that yields the true Musk, be like a Deer, horules, found in the high Country between <hi>Pegu</hi> and <hi>China;</hi> and whether the Musk grows in Bags, Bliſters, or Swellings, which the Beaſt rubs off againſt Trees, it being affirmed to have been found in the Woods by the Scent; whether True Musk is diſcerned from the Falſe by its Yellowneſs, when rubbed upon ones Hand, and by its keeping that Colour and the Scent.</p>
+               <p n="32">32. Whether there be two ſorts of <hi>Gum Lack,</hi> one produced by an Inſect, a certain winged Ant, the other the exſudation of a Tree.</p>
+               <p n="33">33. To enquire after the Fiſh called <hi>Cabala,</hi> ſaid to be very powerful in ſtaunching of Blood.</p>
+               <p n="34">34. Whether at <hi>Java</hi> there be Oiſters, or other Shell-fiſhes, of that bigneſs, as to weigh 300 Pounds.</p>
+               <p n="35">35. Whether in <hi>Malacca</hi> there grows ſome<g ref="char:EOLhyphen"/>time a Stone in the Stomach of a kind of Porcu<g ref="char:EOLhyphen"/>pine, called <hi>Pedro Porco,</hi> eſteemed for its Cor<g ref="char:EOLhyphen"/>dial Virtue above <hi>Bezoar.</hi>
+               </p>
+               <p n="36">36. Whether there be found in the Head of a certain Snake, a Stone, which laid upon a Wound
+<pb n="105" facs="tcp:153430:55"/>of any venomous Creature, ſticks faſt to it, and draws away all the Poiſon; then, being put into Milk, voids its Poiſon, and turns the Milk blue; and then applied again, draws the reſt of the Poiſon that may be behind, till the Wound be perfectly cured.</p>
+               <p n="37">37. Whether the Rhinoceros have ſuch an An<g ref="char:EOLhyphen"/>tipathy againſt Elephants, as is commonly re<g ref="char:EOLhyphen"/>ported.</p>
+               <p n="38">38. Whether in the Iſland of St. <hi>Helena,</hi> the Tide be at the ſame time round in the ſeveral Coaſts of it; and what is the Hour of full Sea, and what the Age of the Moon at the Time of Obſervation.</p>
+            </div>
+            <div type="queries">
+               <pb n="106" facs="tcp:153430:56"/>
+               <head>Enquiries for <hi>Perſia.</hi>
+               </head>
+               <p n="1">1. What are chiefly the preſent Studies of the <hi>Perſians,</hi> and what kind of Learning they now excel in.</p>
+               <p n="2">2. What other Trades and Arts they are now skilled in, beſides that of making of Silk and Tapiſtry.</p>
+               <p n="3">3. Whether, there being already good De<g ref="char:EOLhyphen"/>ſcriptions in Words, of the excellent Pictures and Baſſe Relieves, that are about <hi>Perſepolis</hi> at <hi>Chimilnar,</hi> yet none very particular, ſome may not be found ſufficiently skill'd, in thoſe Parts, that might be engaged to make a Draught of the Place, and the Stories there Pictured and Carved.</p>
+               <p n="4">4. How they make that Plaiſter, wherewith in <hi>India</hi> and thoſe Parts they line their Tanks or Ciſterns, and which, when dry, ſhines like Marble, and is much harder.</p>
+            </div>
+            <div type="queries">
+               <pb n="107" facs="tcp:153430:56"/>
+               <head>Enquiries for <hi>Virginia</hi> and <hi>Bermudas.</hi>
+               </head>
+               <p n="1">1. Concerning the Varieties of Earths; 'tis ſaid there is one kind of a Gummy, Clear Con<g ref="char:EOLhyphen"/>ſiſtence, White and Clear; another White, and ſo light, that it ſwims upon Water; another Red, called <hi>Wapergh,</hi> like <hi>Terra Sigillata: Quaere,</hi> What other conſiderable Kinds are there, and to ſend over a Parcel of each.</p>
+               <p n="2">2. What conſiderable Minerals, Stones, Bitu<g ref="char:EOLhyphen"/>mens, Tinctures and Drugs.</p>
+               <p n="3">3. What Hot Baths, and of what Medicinal Uſe.</p>
+               <p n="4">4. What is the Original of thoſe large Navi<g ref="char:EOLhyphen"/>gable Rivers which empty themſelves into the Bay <hi>Cheſapeak;</hi> and whether on the other ſide of that Ridge of Mountains, from which they are ſuppoſed to proceed, there be not other Rivers that flow into the <hi>South Sea.</hi>
+               </p>
+               <p n="5">5. How the Silk-Graſs is prepared.</p>
+               <p n="6">6. To give a full Account of that Vulnerary Root called <hi>Wichacan of Pocone,</hi> a Root of a red Juice, a good Tincture: Of <hi>Muſquaſpem,</hi> a Root of a red Tincture: Of the Plant <hi>Mari<g ref="char:EOLhyphen"/>cock,</hi> whoſe Fruit is ſaid to be faſhioned like a Lemon, exceeding pleaſant to the Taſte, of a Bloſſom moſt beautiful: Of the <hi>Chincomen</hi> Tree,
+<pb n="108" facs="tcp:153430:57"/>whoſe Fruit is ſaid to have a Husk like a Cheſ<g ref="char:EOLhyphen"/>nut, Luſcious and Hearty Meat, both Raw and Boiled.</p>
+               <p n="7">7. Whether there be in the <hi>Bermudas</hi> a Poi<g ref="char:EOLhyphen"/>ſon-Weed, like our Ivy, whoſe Leaves do by the Touch cauſe Bliſters; and a Reed whoſe Juice or Infuſion cauſeth Vomit.</p>
+               <p n="8">8. What kinds of Trees theſe Barks are taken from, that are uſed inſtead of Tile or Slate, in the Covering of their Houſes, being cooler in <hi>Summer</hi> and warmer in <hi>Winter</hi> than Stone.</p>
+               <p n="9">9. To give a particular Account of the Spi<g ref="char:EOLhyphen"/>der in the <hi>Bermudas,</hi> ſaid to be Large and Beautiful for its Colours, weaving a Web be<g ref="char:EOLhyphen"/>twixt ſeveral Trees, which is affirmed to be for Subſtance and Colour like perfect raw Silk, ſo ſtrong, that Birds like Snites are ſnared therein.</p>
+               <p n="10">10. Whether Deer have generally their three or four Fawns at a Brood; and whether any of the Cattle, tranſported from hence, becomes there more Fruitful than they were here.</p>
+               <p n="11">11. Whether the Relation be true, of a Glue made of Harts-horn, that will not diſſolve in Water; and if ſo, how made.</p>
+               <pb n="109" facs="tcp:153430:57"/>
+               <p n="12">12. Whether, at the Bottom of the Bay of <hi>Cheſapeak,</hi> Northward, the Natives be ſtill of <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uch a Gigantick Stature, as has been reported; and whether there be another, not far from theſe, Eaſterly, of a Dwarfiſh Stature.</p>
+               <p n="13">13. Whether round about the Coaſt of the <hi>Bermudas</hi> the Tides keep the ſame Time, and at what a Clock, preciſely, it is High-water on the Days of Full and New Moon, and how high the Water riſes then; and the like on the Coaſts of <hi>Virginia</hi> and <hi>Florida.</hi>
+               </p>
+            </div>
+            <div type="queries">
+               <pb n="110" facs="tcp:153430:58"/>
+               <head>Enquiries for <hi>Guaiana</hi> and <hi>Braſil.</hi>
+               </head>
+               <p n="1">1. Whether about <hi>Orabba,</hi> near <hi>Oronoque,</hi> ſome eight Degrees Northern Latitude, and about the Town <hi>Darien,</hi> Toads may be produ<g ref="char:EOLhyphen"/>ced, by throwing a kind of Mooriſh Water, found there, upon the Floors of their Houſes. <hi>Linſchotten.</hi>
+               </p>
+               <p n="2">2. Whether it be true that the Locuſt of <hi>Braſil,</hi> called <hi>Caayra,</hi> changeth in the Spring<g ref="char:EOLhyphen"/>Time into a Plant, and withers away like a Plant; and whether, in the ſame Country, that kind of <hi>Eruca,</hi> which is called by the <hi>Portugals Legartas des Verias,</hi> turns into a Bird, admira<g ref="char:EOLhyphen"/>ble for Colour and ſwift flying, the Change there<g ref="char:EOLhyphen"/>of being made ſo leiſurely, that one may for a while ſee half of the Inſect, and the other half of the Bird, which the Natives call <hi>Guianumbi,</hi> the <hi>Portugals Pegafrel. Piſo.</hi>
+               </p>
+               <p n="3">3. Whether upon the Leaves of that <hi>Braſilian</hi> Tree, called <hi>Cereiba,</hi> there is, in a Sun-ſhiny Day, found a white Salt in that Quantity, that one may gather as much from two or three Leaves as will ſalt a good Pot of Broth. <hi>Piſo.</hi>
+               </p>
+               <p n="4">4. Whether there be found about the Mouth of the River <hi>Amazones,</hi> a green <hi>Argilla,</hi> which, though very ſoft under Water, grows almoſt as hard as a Diamond, inſomuch that the Na<g ref="char:EOLhyphen"/>tives make Hatchets of them, ſtrong and ſharp
+<pb n="111" facs="tcp:153430:58"/>enough to cleave Wood; for which purpoſe al<g ref="char:EOLhyphen"/>ſo it is ſaid thoſe <hi>Indians</hi> are ſaid to have uſed it, before they got Iron ones; and whether this <hi>Argilla</hi> become Stone, have a peculiar Virtue againſt the Epilepſie, when carried by the Pa<g ref="char:EOLhyphen"/>tient. <hi>Pelleprat,</hi> in his Relation of the <hi>Iſlands,</hi> and <hi>Terra Firma</hi> of the <hi>Southern America.</hi>
+               </p>
+               <p n="5">5. Whether the black Bees in <hi>Guaiana,</hi> about the River <hi>Orenoque,</hi> make black Honey and Wax; and whether they have no Stings, as the ſame <hi>Pelleprat</hi> affirmeth.</p>
+            </div>
+            <div type="queries">
+               <pb n="112" facs="tcp:153430:59"/>
+               <head>Enquiries and Directions for the <hi>Antiſles,</hi> or <hi>Caribe Iſlands.</hi>
+               </head>
+               <div n="1" type="section">
+                  <head>I. <hi>Of Vegetables.</hi>
+                  </head>
+                  <p n="1">1. Whether the Juice of the Tree <hi>Jumpa,</hi> being as clear as any Rock Water, yields a brown Violet Dye, and being put twice upon the ſame Place, maketh it look black; and whe<g ref="char:EOLhyphen"/>ther this Tincture cannot be got out with any Soap, yet diſappears of it ſelf in nine or ten Days; and whether certain Animals, particu<g ref="char:EOLhyphen"/>larly Hogs and Parrets, eating of this Fruit, have their Fleſh and Fat altogether tinged of a Violet Colour.</p>
+                  <p n="2">2. Whether Ring-Doves, that feed upon the bitter Fruit of the <hi>Acomas</hi> Tree, have their Fleſh bitter alſo?</p>
+                  <p n="3">3. Whether the Wood of the <hi>Acajou</hi> Tree, being red, light, and well-ſcented, never rots in the Water, nor breeds any Worms when cut in due Seaſon; and whether the Cheſts and Trunks made thereof keep Cloaths, placed therein, from being Worm-eaten.</p>
+                  <p n="4">4. Whether the Leaves of a certain Tree, pe<g ref="char:EOLhyphen"/>culiarly called <hi>Indian</hi> Wood, give ſuch a haut Gouſt to Meats and Sauces, as if it were a Com<g ref="char:EOLhyphen"/>poſition of ſeveral ſorts of Spices.</p>
+                  <pb n="113" facs="tcp:153430:59"/>
+                  <p n="5">5. Whether there be two ſuch ſorts of the Wood called <hi>Savomer</hi> or <hi>Soap-Wood,</hi> of the one of which the Fruit, of the other the Root ſer<g ref="char:EOLhyphen"/>veth for Soap.</p>
+                  <p n="6">6. Whether the Bark of the <hi>Paretuvier-Wood,</hi> tans as well as Oak-Bark.</p>
+                  <p n="7">7. Whether the Root of the Tree <hi>Laitus</hi> be<g ref="char:EOLhyphen"/>ing brayed, and caſt into Rivers, maketh Fiſhes drunk.</p>
+                  <p n="1">1. Whether the Root of the <hi>Manioc</hi> is ſo fer<g ref="char:EOLhyphen"/>tile, that one Acre planted therewith, yields ſo plentiful a Crop as ſhall feed more People than ſix Acres of the beſt Wheat.</p>
+                  <p n="9">9. What Symptoms do uſually follow upon the taking the Juice of <hi>Manioc,</hi> or upon eating the Juice with the Root, and what Effects are thereby produced upon the Body, that infer it to be accounted rank Poiſon; whether worſe Effects than theſe may be cauſed by meer Crudi<g ref="char:EOLhyphen"/>ty, as by Turnips and Carrets eaten raw, and much more by raw Fleſh, in thoſe that are not uſed thereto, or at moſt ſome nauſeous or noxi<g ref="char:EOLhyphen"/>ous Quality, as might be corrected in the Taking or Preparation, which Correction, if effected, might perhaps render the Bread much heartier, the Juice being likely to carry off the Spirit and Strength, leaving the Remainder Spiritleſs.</p>
+                  <pb n="114" facs="tcp:153430:60"/>
+                  <p n="10">10. The <hi>Palmetto Royal</hi> being ſaid by <hi>Ligon</hi> to be a very tall and ſtreight Tree, and ſo tough, that none of them have been ſeen blown down, and withal hollow; in all which Re<g ref="char:EOLhyphen"/>ſpects they may ſerve for ſpecial Uſes, and par<g ref="char:EOLhyphen"/>ticularly for long Optick Tubes.</p>
+                  <p n="11">11. Whether the Oil expreſſed out of <hi>Rici<g ref="char:EOLhyphen"/>nus</hi> or <hi>Palma Chriſti,</hi> be uſed by the <hi>Indians</hi> to keep them from Vermine; to ſend over ſome of that Oil.</p>
+                  <p n="12">12. Whether in the Paſſage of the Iſthmus, from <hi>Nombre de Dios</hi> to <hi>Panama,</hi> there is a whole Wood full of Senſitive Trees, of which, as ſoon as they are touch'd, the Leaves and Branches move with a ratling Noiſe, and wind them<g ref="char:EOLhyphen"/>ſelves together into a winding Figure.</p>
+                  <p n="13">13. Whether there be certain Kernels of a Fruit, like a white Pear-plumb, which are very Purgative and Emitick; but having the thin Film, which parts them into halves, taken out, they have no ſuch Operation at all, and are as ſweet as a <hi>Jordaine</hi> Almond.</p>
+                  <p n="14">14. To ſend over ſome of the Roots of the Herb, called by our Author <hi>L'herb aux Fleſhes,</hi> (the Dart-Herb) which being ſtamped is ſaid to have the Virtue of Curing the Wounds made with poiſon'd Darts.</p>
+                  <pb n="115" facs="tcp:153430:60"/>
+                  <p n="15">15. To ſend ſome of the Grain of the Herb Musk, putting it up carefully in a Box, which being in it, will keep its Musk Scent.</p>
+                  <p n="16">16. To ſend over a Specimen of all Medici<g ref="char:EOLhyphen"/>nal Herbs, together with their reſpective Vir<g ref="char:EOLhyphen"/>tues, as they are reputed there. <hi>Item,</hi> Particu<g ref="char:EOLhyphen"/>larly the <hi>Pricklewith</hi> at the <hi>Barbados; Macao, Maſtick-Tree, Locuſt, Black-wood, Yellow within, Five Sprig, Tidle-wood, White-wood, Barbados Ce<g ref="char:EOLhyphen"/>dar.</hi>
+                  </p>
+                  <p n="17">17. Whether the Fruit <hi>Mancenille</hi> of the <hi>Man<g ref="char:EOLhyphen"/>cenillier-Tree,</hi> though admirably fair and fra<g ref="char:EOLhyphen"/>grant, yet is fatal to the Eater, and falling in<g ref="char:EOLhyphen"/>to the Water kills the Fiſhes that eat thereof, except Crabs, who yet are ſaid to be dangerous to eat, when they have fed upon this Fruit; whether under the Bark of this Tree is contain'd a certain glutinous Liquor, as white as Milk, very dangerous, ſo that if you chance to rub it, and this Juice ſpurt upon the Shirt like a Burning, if upon the naked Fleſh, it will cauſe a Swelling, if upon the Eye, Blindneſs for ſeveral Days; and whether the Shadow of this Treee be ſo noxious, that the Bodies of Men repo<g ref="char:EOLhyphen"/>ſing, it will ſwell ſtrangely; and whether the Meat it ſelf that is boiled with the Fire of this Wood, contracts a Malignity, burning the Mouth and Throat: Farther, whether the Natives uſe the Milky Juice of this Tree, and the Dew fal<g ref="char:EOLhyphen"/>ling from it, and the Juice of its Fruit in the Compoſition of the Poiſon they infect their Ar<g ref="char:EOLhyphen"/>rows with.</p>
+               </div>
+               <div n="2" type="section">
+                  <pb n="116" facs="tcp:153430:61"/>
+                  <head>II. <hi>Of Animals and Inſects.</hi>
+                  </head>
+                  <p n="18">18. Whether the Skin of the <hi>Taton,</hi> and the little Bone of his Tail, do indeed, as is related, cure Deafneſs, and Pains of the Ears; and whe<g ref="char:EOLhyphen"/>ther this Animal be Proof, not only againſt the Teeth of Dogs, but alſo againſt Bullets.</p>
+                  <p n="19">19. Whether the Birds called <hi>Canides,</hi> be ſo docile, that ſome of them learn not only to ſpeak <hi>Indian,</hi> but alſo <hi>Dutch</hi> and <hi>Spaniſh,</hi> ſinging alſo the Airs in the <hi>Indian</hi> Tongue, as an <hi>Indian</hi> himſelf.</p>
+                  <p>And whether the Bird <hi>Colibri</hi> have a Scent as ſweet as the fineſt Amber and Musk; both which is affirmed by our <hi>French</hi> Author.</p>
+                  <p n="20">20. To procure ſome of the Fat of the Birds called <hi>Fregats,</hi> reputed to be very Antiparalyti<g ref="char:EOLhyphen"/>cal and Antipodagrical.</p>
+                  <p n="21">21. To ſend over a Land-Pike, which is ſaid to be like the Water-Pike, but that inſtead of Fins it hath Four Feet on which it crawls.</p>
+                  <p n="22">22. Whether the Skin of the Sea-wolf, which they otherwiſe call the <hi>Requiem,</hi> be ſo rude and ſtiff, that they make Files of them, fit to file Wood; and whether it be uſually guided by another Fiſh, that is beautified with ſuch a Va<g ref="char:EOLhyphen"/>riety of lively Colours, that one would ſay, That
+<pb n="117" facs="tcp:153430:61"/>ſuch Fiſhes are girt with Necklaces of Pearls, Corals, Emeralds, <hi>&amp;c.</hi>
+                  </p>
+                  <p n="23">23. Whether the Skins of the Sea-Calfs, o<g ref="char:EOLhyphen"/>therwiſe called <hi>Lamantins,</hi> be ſo hard, when dried, that they ſerve the <hi>Indians</hi> for Shields.</p>
+                  <p n="24">24. Whether the Aſhes of the Freſh-Water Tortoiſes do hinder the falling off the Hair, being powdered therewith.</p>
+                  <p n="25">25. Whether the Land-Crabs of theſe Iſlands do at certain times hide themſelves all under Ground, for ſix Weeks, and during that time change and renew themſelves; and whether in hiding themſelves thus, they do ſo carefully eo<g ref="char:EOLhyphen"/>ver themſelves all about with Earth, that the opening thereof cannot be at all perceiv'd, there<g ref="char:EOLhyphen"/>by ſhutting out the Air, by which they might elſe be annoyed, when they are quite naked, after they have ſhed their Shells, there then re<g ref="char:EOLhyphen"/>maining no other Cover on them but a very thin and tender Skin which, by little, thicken<g ref="char:EOLhyphen"/>eth and hardneth into a Cruſt, like the old.</p>
+                  <p n="26">26. Whether the Serpents in theſe Parts, that have Black and White Spots on their Backs, be not Venemous; ſend over ſome of ſuch Ser<g ref="char:EOLhyphen"/>pents Skins.</p>
+                  <p n="27">27. To ſend over ſome of the Skins of thoſe huge Lizards, called <hi>Ovayamaca,</hi> which, when come to their full Bigneſs, are ſaid to be five Foot long, Tail and all; and eſpecially that are ſaid
+<pb n="118" facs="tcp:153430:62"/>to have the Scales of their Skins ſo bright and curious, that they reſemble Cloth of Gold and Silver.</p>
+                  <p n="28">28. Where the ſhining Flees, called <hi>Cucuyes,</hi> hide almoſt all their Light, when taken, but when at Liberty afford it plentifully.</p>
+                  <p n="29">29. Whether there be a ſort of Bees, Brown and Blue, who make a Black Wax, but the Ho<g ref="char:EOLhyphen"/>ney in it whither and ſweeter than that of <hi>Eu<g ref="char:EOLhyphen"/>rope.</hi>
+                  </p>
+                  <p n="30">30. Whether in thoſe Parts the <hi>Indians</hi> do cure the Bitings of Serpents by eating freſh Ci<g ref="char:EOLhyphen"/>tron Pills, and by applying the Unguent, made of the bruiſed Head of the Wounding Serpent, and put hot upon the Wound.</p>
+                  <p n="31">31. Whether the Wood-Lice in thoſe Coun<g ref="char:EOLhyphen"/>tries, generated out of Rotten Wood, are not able, not only to eat through Trunks in a Day or two, and to ſpoil Linnen, Cloaths and Books, (of which laſt they are ſaid only to ſpare what is written or printed,) but alſo to ſupport the Props, which ſupport the Cottages, that they fall; and whether the Remedy againſt the lat<g ref="char:EOLhyphen"/>ter Miſchief is, To turn the Ends of the Wood, that are fixed in the Ground, or to rub the Wood with the Oil of that kind of <hi>Palma Chri<g ref="char:EOLhyphen"/>ſti</hi> (a Plant) wherewith the Natives rub their Heads, to ſecure them from Vermine.</p>
+                  <pb n="119" facs="tcp:153430:62"/>
+                  <p n="32">32. Whether that ſort of Vermine they meet with, commonly called <hi>Ravets,</hi> ſpare nothing of what they meetwith, (either of Paper, Cloaths, Linnen and Woollen) but Silk and Cotten.</p>
+                  <p n="33">33. Whether the little Cirons, called <hi>Chiques,</hi> bred out of Duſt, when they pierce once into the Feet, and under the Nails of the Toes, do get Ground of the whole Body, unleſs they be drawn out betimes; and whether at firſt they cauſe but a little, but afterwards having pierced the Skin, raiſe a great Inflammation in the Part affected, and become in a ſmall time as big as a Peaſe, producing innumerable Nits, that breed others.</p>
+               </div>
+            </div>
+            <div type="queries">
+               <pb n="120" facs="tcp:153430:63"/>
+               <head>Enquiries for <hi>Greenland.</hi>
+               </head>
+               <p n="1">1. What and how much is the Heat of the Sun there in the midſt of Summer, compared with the Heat of it in <hi>England,</hi> to be obſerved with a Thermometer.</p>
+               <p n="2">2. What is the moſt conſtant Weather there in <hi>Summer,</hi> whether Clear, Cloudy, Rainy, Foggy, <hi>&amp;c.</hi>
+               </p>
+               <p n="3">3. What Weather is moſt uſual at ſuch and ſuch Times of the Year.</p>
+               <p n="4">4. What Conſtancy or Unconſtancy there is of the Wind, to this or that Quarter of the Horizon, or to this or that Part of the Year.</p>
+               <p n="5">5. What the Temperature of each particular Wind is obſerved to be, and particularly whe<g ref="char:EOLhyphen"/>ther the North-Wind be the coldeſt; and if not, whether is coldeſt, the Eaſt or the Weſt, <hi>&amp;c.</hi>
+               </p>
+               <p n="6">6. What Wind is obſerved to bring moſt Ice, and what to make a Clear Water at Sea.</p>
+               <p n="7">7. What Currents are there, how faſt, and which way they ſet; whether theſe Currents are not ſtronger at one time of the Moon than of another; whether they always run one way.</p>
+               <pb n="121" facs="tcp:153430:63"/>
+               <p n="8">8. What is obſervable about the Tides, High Spring or Neap; how high the Water-Mark is above the Low Water; which way it floweth, which way it Ebbeth; what time of the Moon the Spring-Tides fall out.</p>
+               <p n="9">9. Whether the Ice that floats in the Sea, be of Salt-Water or Freſh.</p>
+               <p n="10">10. What Rivers there are in the Summer, and what freſh Waters can be had.</p>
+               <p n="11">11. What Fowl are found to live there, and what Beaſts; how they are thought to ſubſiſt in Winter; how they Breed and Feed their Young.</p>
+               <p n="12">12. What Vegetables grow there, and whe<g ref="char:EOLhyphen"/>ther they yield any Flowers or Fuits, <hi>&amp;c.</hi>
+               </p>
+               <p n="13">13. Whether there have been any Thunder or Lightning obſerved in thoſe Parts, as is ob<g ref="char:EOLhyphen"/>ſerved in <hi>Norway.</hi>
+               </p>
+               <p n="14">14. How deep the Cold penetrates into the Earth, and whether there be any Wells, Pits or Mines ſo deep that the Cold does not reach the Bottom thereof.</p>
+               <p n="15">15. How the Land tends, and whether the Parts under or near the Pole, be by thoſe that have gone fartheſt that way, thought to be Sea or Land; and how near any hath been known to approach the Pole; whether the Cold increa<g ref="char:EOLhyphen"/>ſeth with the increaſe of Latitude.</p>
+               <pb n="122" facs="tcp:153430:64"/>
+               <p n="16">16. To make, if poſſible, ſome Experiments and Obſervations about the Magnet or Needle; and particularly how much the Declination is there, and whether they exactly obſerve the De<g ref="char:EOLhyphen"/>grees of Declination in their Courſe; likewiſe to make Obſervations about the Heighth of the Sun and other Celeſtial Bodies, and their Dia<g ref="char:EOLhyphen"/>meter, Refractions, <hi>&amp;c.</hi>
+               </p>
+               <p n="17">17. What is their Opinion concerning the North-Eaſt Paſſage.</p>
+               <p n="18">18. What Fiſh do moſt frequent thoſe Seas beſides Whales; what is obſervable in their Fiſhing, as the uſual or unuſual Bigneſs and Strength, and the ſeveral ſorts of Whales, and particularly to obſerve whether that kind of Whale they call <hi>Trompa,</hi> have in their Heads the <hi>Sperma Coeti,</hi> and in their Intrals the Am<g ref="char:EOLhyphen"/>bergreeſe, looking like Cow Dung. <hi>Purchat.</hi>
+               </p>
+               <p n="19">19. What obſervable Difference there is of the Coldneſs of the Winds, when it blows over great Boards of Ice that are ſeen in theſe Seas, and when not.</p>
+               <p n="20">20. To give an exact Account of the Whale<g ref="char:EOLhyphen"/>fiſhing, throwing the Harping-Irons, following the Fiſh.</p>
+               <p n="21">21. To deſcribe the whole manner of making the Oil of Whale.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:153430:64"/>
+         </div>
+      </body>
+   </text>
+</TEI>
